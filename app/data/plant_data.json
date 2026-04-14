@@ -1,0 +1,4825 @@
+{
+  "Aloevera": {
+    "nama_indonesia": "Lidah Buaya",
+    "nama_latin": "Aloe vera",
+    "family": "Asphodelaceae",
+    "deskripsi": "Tanaman sukulen tropis yang telah digunakan selama berabad-abad untuk penyembuhan kulit, antimikroba, dan anti-inflamasi. Gel bening di dalam daunnya kaya akan vitamin, mineral, dan antioksidan.",
+    "manfaat": [
+      {
+        "judul": "Penyembuh Kulit",
+        "deskripsi": "Mempercepat penyembuhan luka bakar dan mengurangi iritasi akibat sinar matahari."
+      },
+      {
+        "judul": "Kesehatan Pencernaan",
+        "deskripsi": "Jus lidah buaya membantu pencernaan dan meredakan gejala sembelit."
+      },
+      {
+        "judul": "Antioksidan",
+        "deskripsi": "Mengandung polifenol kuat yang menghambat pertumbuhan bakteri berbahaya."
+      },
+      {
+        "judul": "Pelembap Alami",
+        "deskripsi": "Gel lidah buaya melembapkan kulit tanpa menyumbat pori-pori."
+      }
+    ],
+    "penyakit": [
+      "Luka bakar",
+      "Sembelit",
+      "Iritasi kulit",
+      "Jerawat"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Panen Daun",
+        "deskripsi": "Potong daun luar yang sudah matang dari pangkalnya menggunakan pisau steril."
+      },
+      {
+        "langkah": "Buang Lateks",
+        "deskripsi": "Tegakkan daun 10 menit untuk mengeluarkan lateks kuning yang bisa iritasi."
+      },
+      {
+        "langkah": "Ekstraksi Gel",
+        "deskripsi": "Kupas kulit luar dan ambil gel bening. Gunakan langsung atau simpan di kulkas."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Uji Alergi",
+        "deskripsi": "Oleskan sedikit gel di pergelangan tangan dan tunggu 24 jam."
+      },
+      {
+        "judul": "Hindari Konsumsi Berlebihan",
+        "deskripsi": "Lateks mentah bisa beracun. Jangan konsumsi lateks aloin langsung."
+      },
+      {
+        "judul": "Peringatan Kehamilan",
+        "deskripsi": "Konsumsi oral tidak dianjurkan untuk ibu hamil tanpa konsultasi dokter."
+      }
+    ]
+  },
+  "Amla": {
+    "nama_indonesia": "Amla (Malaka India)",
+    "nama_latin": "Phyllanthus emblica",
+    "family": "Phyllanthaceae",
+    "deskripsi": "Amla (Malaka India) (Phyllanthus emblica) adalah tanaman dari famili Phyllanthaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun amla (malaka india) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak amla (malaka india) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Amla (Malaka India) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun amla (malaka india) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan amla (malaka india) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Amruta_Balli": {
+    "nama_indonesia": "Brotowali",
+    "nama_latin": "Tinospora cordifolia",
+    "family": "Menispermaceae",
+    "deskripsi": "Brotowali (Tinospora cordifolia) adalah tanaman dari famili Menispermaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun brotowali mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak brotowali memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Brotowali telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun brotowali yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan brotowali secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Arali": {
+    "nama_indonesia": "Kamboja Jepang",
+    "nama_latin": "Nerium oleander",
+    "family": "Apocynaceae",
+    "deskripsi": "Kamboja Jepang (Nerium oleander) adalah tanaman dari famili Apocynaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun kamboja jepang mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak kamboja jepang memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Kamboja Jepang telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun kamboja jepang yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan kamboja jepang secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Ashoka": {
+    "nama_indonesia": "Ashoka",
+    "nama_latin": "Saraca asoca",
+    "family": "Fabaceae",
+    "deskripsi": "Ashoka (Saraca asoca) adalah tanaman dari famili Fabaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun ashoka mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak ashoka memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Ashoka telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun ashoka yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan ashoka secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Ashwagandha": {
+    "nama_indonesia": "Ashwagandha (Ginseng India)",
+    "nama_latin": "Withania somnifera",
+    "family": "Solanaceae",
+    "deskripsi": "Dikenal sebagai Ginseng India, ashwagandha adalah adaptogen kuat yang digunakan dalam Ayurveda selama 3000 tahun untuk mengurangi stres dan meningkatkan energi.",
+    "manfaat": [
+      {
+        "judul": "Pereda Stres",
+        "deskripsi": "Menurunkan kadar kortisol hingga 30% berdasarkan studi klinis."
+      },
+      {
+        "judul": "Peningkat Energi",
+        "deskripsi": "Meningkatkan stamina tanpa efek stimulan seperti kafein."
+      },
+      {
+        "judul": "Kualitas Tidur",
+        "deskripsi": "Senyawa triethylene glycol membantu memperbaiki kualitas tidur."
+      },
+      {
+        "judul": "Fungsi Otak",
+        "deskripsi": "Meningkatkan memori berkat senyawa withanolide yang bersifat neuroprotektif."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun ashwagandha (ginseng india) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Kehamilan",
+        "deskripsi": "Dilarang untuk ibu hamil karena dapat menyebabkan kontraksi rahim."
+      },
+      {
+        "judul": "Penyakit Autoimun",
+        "deskripsi": "Hindari jika memiliki lupus atau rheumatoid arthritis."
+      }
+    ]
+  },
+  "Astma_weed": {
+    "nama_indonesia": "Patikan Kebo",
+    "nama_latin": "Euphorbia hirta",
+    "family": "Euphorbiaceae",
+    "deskripsi": "Patikan Kebo (Euphorbia hirta) adalah tanaman dari famili Euphorbiaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun patikan kebo mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak patikan kebo memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Patikan Kebo telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun patikan kebo yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan patikan kebo secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Avacado": {
+    "nama_indonesia": "Alpukat",
+    "nama_latin": "Persea americana",
+    "family": "Lauraceae",
+    "deskripsi": "Alpukat (Persea americana) adalah tanaman dari famili Lauraceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun alpukat mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak alpukat memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Alpukat telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun alpukat yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan alpukat secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Badipala": {
+    "nama_indonesia": "Badipala (Serai Malabar)",
+    "nama_latin": "Cymbopogon flexuosus",
+    "family": "Poaceae",
+    "deskripsi": "Badipala (Serai Malabar) (Cymbopogon flexuosus) adalah tanaman dari famili Poaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun badipala (serai malabar) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak badipala (serai malabar) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Badipala (Serai Malabar) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun badipala (serai malabar) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan badipala (serai malabar) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Balloon_Vine": {
+    "nama_indonesia": "Paria Gunung",
+    "nama_latin": "Cardiospermum halicacabum",
+    "family": "Sapindaceae",
+    "deskripsi": "Paria gunung (Cardiospermum) adalah tanaman merambat dengan buah balon yang digunakan untuk mengobati rematik dan masalah kulit.",
+    "manfaat": [
+      {
+        "judul": "Anti-Rematik",
+        "deskripsi": "Mengurangi nyeri dan pembengkakan sendi secara tradisional."
+      },
+      {
+        "judul": "Pereda Gatal",
+        "deskripsi": "Krim dari ekstrak tanaman ini meredakan dermatitis dan eksim."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Saponin di dalamnya memiliki efek anti-peradangan yang kuat."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun paria gunung yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan paria gunung secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Bamboo": {
+    "nama_indonesia": "Bambu",
+    "nama_latin": "Bambusa vulgaris",
+    "family": "Poaceae",
+    "deskripsi": "Bambu adalah rumput raksasa yang tumbuh cepat. Rebung bambu kaya serat dan mineral, sedangkan daunnya digunakan dalam pengobatan tradisional Asia.",
+    "manfaat": [
+      {
+        "judul": "Kaya Serat",
+        "deskripsi": "Rebung bambu mengandung serat tinggi yang membantu pencernaan dan diet."
+      },
+      {
+        "judul": "Antioksidan",
+        "deskripsi": "Daun bambu mengandung flavonoid dan fenol yang melindungi sel tubuh."
+      },
+      {
+        "judul": "Penurun Kolesterol",
+        "deskripsi": "Serat dan fitoesterol dalam rebung membantu menurunkan kolesterol."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun bambu yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan bambu secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Beans": {
+    "nama_indonesia": "Kacang Buncis",
+    "nama_latin": "Phaseolus vulgaris",
+    "family": "Fabaceae",
+    "deskripsi": "Kacang Buncis (Phaseolus vulgaris) adalah tanaman dari famili Fabaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun kacang buncis mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak kacang buncis memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Kacang Buncis telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun kacang buncis yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan kacang buncis secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Betel": {
+    "nama_indonesia": "Sirih",
+    "nama_latin": "Piper betle",
+    "family": "Piperaceae",
+    "deskripsi": "Daun sirih telah digunakan dalam budaya Asia selama ribuan tahun. Kaya akan minyak atsiri seperti chavicol dan eugenol yang bersifat antiseptik kuat.",
+    "manfaat": [
+      {
+        "judul": "Antiseptik Mulut",
+        "deskripsi": "Mengunyah sirih membunuh bakteri mulut dan menyegarkan napas."
+      },
+      {
+        "judul": "Penyembuh Luka",
+        "deskripsi": "Air rebusan daun sirih mempercepat penyembuhan luka kecil."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Minyak atsiri chavicol mengurangi peradangan pada penggunaan luar."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun sirih yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan sirih secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Betel_Nut": {
+    "nama_indonesia": "Pinang",
+    "nama_latin": "Areca catechu",
+    "family": "Arecaceae",
+    "deskripsi": "Buah pinang yang telah lama digunakan dalam tradisi menginang. Mengandung arecoline yang bersifat stimulan ringan.",
+    "manfaat": [
+      {
+        "judul": "Stimulan Ringan",
+        "deskripsi": "Merangsang sistem saraf pusat dan meningkatkan kewaspadaan."
+      },
+      {
+        "judul": "Anti-Parasit",
+        "deskripsi": "Arecoline efektif melawan cacing pita dan parasit usus lainnya."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun pinang yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Risiko Kanker Mulut",
+        "deskripsi": "WHO mengklasifikasikan pinang sebagai karsinogenik. Hindari penggunaan rutin."
+      },
+      {
+        "judul": "Kecanduan",
+        "deskripsi": "Arecoline bersifat adiktif. Penggunaan jangka panjang sangat tidak dianjurkan."
+      }
+    ]
+  },
+  "Bhrami": {
+    "nama_indonesia": "Brahmi (Pegagan India)",
+    "nama_latin": "Bacopa monnieri",
+    "family": "Plantaginaceae",
+    "deskripsi": "Brahmi (Bacopa monnieri) adalah herba air yang dikenal sebagai brain tonic terbaik dalam Ayurveda. Meningkatkan daya ingat dan konsentrasi.",
+    "manfaat": [
+      {
+        "judul": "Penguat Memori",
+        "deskripsi": "Bacoside A dan B meningkatkan transmisi sinyal antar saraf otak."
+      },
+      {
+        "judul": "Anti-Kecemasan",
+        "deskripsi": "Efek anxiolytic alami tanpa efek sedatif berlebihan."
+      },
+      {
+        "judul": "Neuroprotektif",
+        "deskripsi": "Melindungi sel otak dari kerusakan oksidatif dan penuaan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun brahmi (pegagan india) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan brahmi (pegagan india) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Bringaraja": {
+    "nama_indonesia": "Urang-Aring",
+    "nama_latin": "Eclipta prostrata",
+    "family": "Asteraceae",
+    "deskripsi": "Urang-aring (Eclipta prostrata) dikenal sebagai raja rambut dalam Ayurveda. Digunakan untuk perawatan rambut dan kesehatan hati.",
+    "manfaat": [
+      {
+        "judul": "Pertumbuhan Rambut",
+        "deskripsi": "Minyak urang-aring merangsang folikel rambut dan mencegah kerontokan."
+      },
+      {
+        "judul": "Pelindung Hati",
+        "deskripsi": "Wedelolactone melindungi sel hati dari kerusakan dan hepatitis."
+      },
+      {
+        "judul": "Anti-Penuaan Kulit",
+        "deskripsi": "Antioksidan tinggi melawan keriput dan flek hitam."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun urang-aring yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan urang-aring secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Caricature": {
+    "nama_indonesia": "Handeuleum",
+    "nama_latin": "Graptophyllum pictum",
+    "family": "Acanthaceae",
+    "deskripsi": "Handeuleum (Graptophyllum pictum) adalah tanaman dari famili Acanthaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun handeuleum mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak handeuleum memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Handeuleum telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun handeuleum yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan handeuleum secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Castor": {
+    "nama_indonesia": "Jarak",
+    "nama_latin": "Ricinus communis",
+    "family": "Euphorbiaceae",
+    "deskripsi": "Tanaman jarak yang menghasilkan minyak kastor (castor oil) yang digunakan luas dalam industri farmasi, kosmetik, dan pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Pencahar Alami",
+        "deskripsi": "Asam risinoleat dalam minyak jarak merangsang gerakan usus untuk mengatasi sembelit."
+      },
+      {
+        "judul": "Pelembap Kulit",
+        "deskripsi": "Minyak jarak kaya asam lemak yang melembapkan dan menghaluskan kulit."
+      },
+      {
+        "judul": "Pertumbuhan Rambut",
+        "deskripsi": "Merangsang pertumbuhan rambut dan menebalkan alis serta bulu mata."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun jarak yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Biji Beracun",
+        "deskripsi": "Biji jarak mengandung ricin yang SANGAT BERACUN. Jangan pernah makan biji mentah."
+      },
+      {
+        "judul": "Ibu Hamil",
+        "deskripsi": "Minyak jarak dapat menyebabkan kontraksi rahim. Dilarang untuk ibu hamil."
+      }
+    ]
+  },
+  "Chakte": {
+    "nama_indonesia": "Chakte (Teak India)",
+    "nama_latin": "Tectona grandis",
+    "family": "Lamiaceae",
+    "deskripsi": "Chakte (Teak India) (Tectona grandis) adalah tanaman dari famili Lamiaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun chakte (teak india) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak chakte (teak india) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Chakte (Teak India) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun chakte (teak india) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan chakte (teak india) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Chilly": {
+    "nama_indonesia": "Cabai",
+    "nama_latin": "Capsicum annuum",
+    "family": "Solanaceae",
+    "deskripsi": "Cabai mengandung capsaicin yang memberikan rasa pedas dan memiliki sifat analgesik, anti-inflamasi, serta meningkatkan metabolisme tubuh.",
+    "manfaat": [
+      {
+        "judul": "Pereda Nyeri",
+        "deskripsi": "Capsaicin digunakan dalam krim topikal untuk meredakan nyeri otot dan sendi."
+      },
+      {
+        "judul": "Peningkat Metabolisme",
+        "deskripsi": "Meningkatkan pembakaran kalori dan membantu penurunan berat badan."
+      },
+      {
+        "judul": "Vitamin C",
+        "deskripsi": "Cabai hijau mengandung vitamin C lebih tinggi dari jeruk."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun cabai yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan cabai secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Citron lime (herelikai)": {
+    "nama_indonesia": "Jeruk Sitrun",
+    "nama_latin": "Citrus medica",
+    "family": "Rutaceae",
+    "deskripsi": "Jeruk Sitrun (Citrus medica) adalah tanaman dari famili Rutaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun jeruk sitrun mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak jeruk sitrun memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Jeruk Sitrun telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun jeruk sitrun yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan jeruk sitrun secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Coffee": {
+    "nama_indonesia": "Kopi",
+    "nama_latin": "Coffea arabica",
+    "family": "Rubiaceae",
+    "deskripsi": "Tanaman kopi yang buahnya mengandung kafein sebagai stimulan alami. Daun kopi juga memiliki khasiat obat dan digunakan sebagai teh herbal di beberapa daerah.",
+    "manfaat": [
+      {
+        "judul": "Stimulan Otak",
+        "deskripsi": "Kafein meningkatkan kewaspadaan, konsentrasi, dan fungsi kognitif."
+      },
+      {
+        "judul": "Antioksidan",
+        "deskripsi": "Kopi kaya asam klorogenat yang melindungi sel dari kerusakan oksidatif."
+      },
+      {
+        "judul": "Pencegah Diabetes",
+        "deskripsi": "Konsumsi kopi teratur terkait dengan risiko diabetes tipe 2 yang lebih rendah."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun kopi yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan kopi secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Coriender": {
+    "nama_indonesia": "Ketumbar",
+    "nama_latin": "Coriandrum sativum",
+    "family": "Apiaceae",
+    "deskripsi": "Ketumbar (Coriandrum sativum) adalah tanaman dari famili Apiaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun ketumbar mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak ketumbar memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Ketumbar telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun ketumbar yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan ketumbar secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Curry_Leaf": {
+    "nama_indonesia": "Daun Kari",
+    "nama_latin": "Murraya koenigii",
+    "family": "Rutaceae",
+    "deskripsi": "Daun Kari (Murraya koenigii) adalah tanaman dari famili Rutaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun daun kari mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak daun kari memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Daun Kari telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun daun kari yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan daun kari secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Doddapatre": {
+    "nama_indonesia": "Jintan India (Indian Borage)",
+    "nama_latin": "Plectranthus amboinicus",
+    "family": "Lamiaceae",
+    "deskripsi": "Jintan India (Indian Borage) (Plectranthus amboinicus) adalah tanaman dari famili Lamiaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun jintan india (indian borage) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak jintan india (indian borage) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Jintan India (Indian Borage) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun jintan india (indian borage) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan jintan india (indian borage) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Drumstick": {
+    "nama_indonesia": "Kelor",
+    "nama_latin": "Moringa oleifera",
+    "family": "Moringaceae",
+    "deskripsi": "Tanaman kelor yang dijuluki Miracle Tree karena kandungan nutrisinya yang luar biasa tinggi.",
+    "manfaat": [
+      {
+        "judul": "Superfood Bergizi",
+        "deskripsi": "Mengandung 7x vitamin C jeruk, 4x kalsium susu, dan 4x vitamin A wortel."
+      },
+      {
+        "judul": "Anti-Malnutrisi",
+        "deskripsi": "Direkomendasikan WHO untuk mengatasi kekurangan gizi."
+      },
+      {
+        "judul": "Penurun Kolesterol",
+        "deskripsi": "Senyawa isothiocyanate membantu menurunkan kolesterol jahat."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun kelor yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan kelor secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Ekka": {
+    "nama_indonesia": "Biduri",
+    "nama_latin": "Calotropis gigantea",
+    "family": "Apocynaceae",
+    "deskripsi": "Biduri (Calotropis gigantea) adalah tanaman dari famili Apocynaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun biduri mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak biduri memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Biduri telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun biduri yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan biduri secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Eucalyptus": {
+    "nama_indonesia": "Kayu Putih (Eucalyptus)",
+    "nama_latin": "Eucalyptus globulus",
+    "family": "Myrtaceae",
+    "deskripsi": "Pohon asal Australia yang daunnya menghasilkan minyak kayu putih. Senyawa 1,8-cineole sangat efektif untuk melegakan pernapasan.",
+    "manfaat": [
+      {
+        "judul": "Pelega Pernapasan",
+        "deskripsi": "Uap minyak eucalyptus melegakan hidung tersumbat dan sinusitis."
+      },
+      {
+        "judul": "Antiseptik",
+        "deskripsi": "Minyak eucalyptus membunuh bakteri dan virus di udara."
+      },
+      {
+        "judul": "Pereda Nyeri",
+        "deskripsi": "Balsem eucalyptus mengurangi nyeri otot dan sendi."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun kayu putih (eucalyptus) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan kayu putih (eucalyptus) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Ganigale": {
+    "nama_indonesia": "Ganigale",
+    "nama_latin": "Flacourtia indica",
+    "family": "Salicaceae",
+    "deskripsi": "Ganigale (Flacourtia indica) adalah tanaman dari famili Salicaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun ganigale mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak ganigale memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Ganigale telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun ganigale yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan ganigale secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Gasagase": {
+    "nama_indonesia": "Biji Poppy India",
+    "nama_latin": "Papaver somniferum",
+    "family": "Papaveraceae",
+    "deskripsi": "Biji Poppy India (Papaver somniferum) adalah tanaman dari famili Papaveraceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun biji poppy india mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak biji poppy india memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Biji Poppy India telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun biji poppy india yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan biji poppy india secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Geranium": {
+    "nama_indonesia": "Geranium",
+    "nama_latin": "Pelargonium graveolens",
+    "family": "Geraniaceae",
+    "deskripsi": "Geranium (Pelargonium graveolens) adalah tanaman dari famili Geraniaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun geranium mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak geranium memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Geranium telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun geranium yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan geranium secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Ginger": {
+    "nama_indonesia": "Jahe",
+    "nama_latin": "Zingiber officinale",
+    "family": "Zingiberaceae",
+    "deskripsi": "Rimpang pedas aromatik yang digunakan ribuan tahun sebagai bumbu dan obat tradisional. Gingerol memiliki efek anti-mual, anti-inflamasi, dan antioksidan.",
+    "manfaat": [
+      {
+        "judul": "Anti-Mual",
+        "deskripsi": "Sangat efektif mengatasi mual akibat mabuk perjalanan dan morning sickness."
+      },
+      {
+        "judul": "Pereda Nyeri",
+        "deskripsi": "Mengurangi nyeri otot dan sendi, setara ibuprofen dalam beberapa studi."
+      },
+      {
+        "judul": "Pemanasan Tubuh",
+        "deskripsi": "Meningkatkan sirkulasi darah dan menghangatkan tubuh dari dalam."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun jahe yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan jahe secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Globe Amarnath": {
+    "nama_indonesia": "Bunga Kenop",
+    "nama_latin": "Gomphrena globosa",
+    "family": "Amaranthaceae",
+    "deskripsi": "Bunga Kenop (Gomphrena globosa) adalah tanaman dari famili Amaranthaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun bunga kenop mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak bunga kenop memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Bunga Kenop telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun bunga kenop yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan bunga kenop secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Guava": {
+    "nama_indonesia": "Jambu Biji",
+    "nama_latin": "Psidium guajava",
+    "family": "Myrtaceae",
+    "deskripsi": "Buah tropis yang sangat kaya vitamin C dan serat. Daun jambu biji kaya antioksidan dan antibakteri untuk pengobatan diare.",
+    "manfaat": [
+      {
+        "judul": "Anti-Diare",
+        "deskripsi": "Rebusan daun jambu biji efektif menghentikan diare berkat kandungan tanin."
+      },
+      {
+        "judul": "Penurun Gula Darah",
+        "deskripsi": "Ekstrak daun menurunkan kadar gula darah pasca makan."
+      },
+      {
+        "judul": "Vitamin C Tinggi",
+        "deskripsi": "Buahnya mengandung 4x lebih banyak vitamin C dibanding jeruk."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun jambu biji yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan jambu biji secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Henna": {
+    "nama_indonesia": "Pacar Kuku (Henna)",
+    "nama_latin": "Lawsonia inermis",
+    "family": "Lythraceae",
+    "deskripsi": "Pacar Kuku (Henna) (Lawsonia inermis) adalah tanaman dari famili Lythraceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun pacar kuku (henna) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak pacar kuku (henna) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Pacar Kuku (Henna) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun pacar kuku (henna) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan pacar kuku (henna) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Hibiscus": {
+    "nama_indonesia": "Kembang Sepatu",
+    "nama_latin": "Hibiscus rosa-sinensis",
+    "family": "Malvaceae",
+    "deskripsi": "Kembang Sepatu (Hibiscus rosa-sinensis) adalah tanaman dari famili Malvaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun kembang sepatu mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak kembang sepatu memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Kembang Sepatu telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun kembang sepatu yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan kembang sepatu secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Honge": {
+    "nama_indonesia": "Honge (Pongamia)",
+    "nama_latin": "Millettia pinnata",
+    "family": "Fabaceae",
+    "deskripsi": "Honge (Pongamia) (Millettia pinnata) adalah tanaman dari famili Fabaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun honge (pongamia) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak honge (pongamia) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Honge (Pongamia) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun honge (pongamia) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan honge (pongamia) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Insulin": {
+    "nama_indonesia": "Tanaman Insulin",
+    "nama_latin": "Costus igneus",
+    "family": "Costaceae",
+    "deskripsi": "Tanaman Insulin (Costus igneus) adalah tanaman dari famili Costaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun tanaman insulin mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak tanaman insulin memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Tanaman Insulin telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun tanaman insulin yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan tanaman insulin secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Jackfruit": {
+    "nama_indonesia": "Nangka",
+    "nama_latin": "Artocarpus heterophyllus",
+    "family": "Moraceae",
+    "deskripsi": "Nangka (Artocarpus heterophyllus) adalah tanaman dari famili Moraceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun nangka mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak nangka memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Nangka telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun nangka yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan nangka secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Jasmine": {
+    "nama_indonesia": "Melati",
+    "nama_latin": "Jasminum sambac",
+    "family": "Oleaceae",
+    "deskripsi": "Melati (Jasminum sambac) adalah tanaman dari famili Oleaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun melati mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak melati memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Melati telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun melati yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan melati secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Kambajala": {
+    "nama_indonesia": "Kambajala (Hop Bush)",
+    "nama_latin": "Dodonaea viscosa",
+    "family": "Sapindaceae",
+    "deskripsi": "Kambajala (Hop Bush) (Dodonaea viscosa) adalah tanaman dari famili Sapindaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun kambajala (hop bush) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak kambajala (hop bush) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Kambajala (Hop Bush) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun kambajala (hop bush) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan kambajala (hop bush) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Kasambruga": {
+    "nama_indonesia": "Kasambruga (Trengguli)",
+    "nama_latin": "Cassia fistula",
+    "family": "Fabaceae",
+    "deskripsi": "Kasambruga (Trengguli) (Cassia fistula) adalah tanaman dari famili Fabaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun kasambruga (trengguli) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak kasambruga (trengguli) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Kasambruga (Trengguli) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun kasambruga (trengguli) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan kasambruga (trengguli) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Kohlrabi": {
+    "nama_indonesia": "Kohlrabi (Kubis Rabi)",
+    "nama_latin": "Brassica oleracea var. gongylodes",
+    "family": "Brassicaceae",
+    "deskripsi": "Kohlrabi (Kubis Rabi) (Brassica oleracea var. gongylodes) adalah tanaman dari famili Brassicaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun kohlrabi (kubis rabi) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak kohlrabi (kubis rabi) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Kohlrabi (Kubis Rabi) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun kohlrabi (kubis rabi) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan kohlrabi (kubis rabi) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Lantana": {
+    "nama_indonesia": "Lantana",
+    "nama_latin": "Lantana camara",
+    "family": "Verbenaceae",
+    "deskripsi": "Lantana (Lantana camara) adalah tanaman dari famili Verbenaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun lantana mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak lantana memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Lantana telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun lantana yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan lantana secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Lemon": {
+    "nama_indonesia": "Jeruk Lemon",
+    "nama_latin": "Citrus limon",
+    "family": "Rutaceae",
+    "deskripsi": "Jeruk Lemon (Citrus limon) adalah tanaman dari famili Rutaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun jeruk lemon mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak jeruk lemon memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Jeruk Lemon telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun jeruk lemon yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan jeruk lemon secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Lemon_grass": {
+    "nama_indonesia": "Serai",
+    "nama_latin": "Cymbopogon citratus",
+    "family": "Poaceae",
+    "deskripsi": "Rumput aromatik beraroma sitrus yang banyak digunakan dalam masakan Asia dan pengobatan tradisional. Kaya sitral yang antimikroba.",
+    "manfaat": [
+      {
+        "judul": "Pereda Demam",
+        "deskripsi": "Dikenal sebagai rumput demam karena kemampuannya menurunkan suhu tubuh."
+      },
+      {
+        "judul": "Penangkal Nyamuk",
+        "deskripsi": "Minyak sitronela efektif mengusir nyamuk dan serangga."
+      },
+      {
+        "judul": "Pencernaan Sehat",
+        "deskripsi": "Teh serai membantu mengatasi kembung, mual, dan kram perut."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun serai yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan serai secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Malabar_Nut": {
+    "nama_indonesia": "Adhatoda (Malabar Nut)",
+    "nama_latin": "Justicia adhatoda",
+    "family": "Acanthaceae",
+    "deskripsi": "Adhatoda (Malabar Nut) (Justicia adhatoda) adalah tanaman dari famili Acanthaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun adhatoda (malabar nut) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak adhatoda (malabar nut) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Adhatoda (Malabar Nut) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun adhatoda (malabar nut) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan adhatoda (malabar nut) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Malabar_Spinach": {
+    "nama_indonesia": "Bayam Malabar (Gendola)",
+    "nama_latin": "Basella alba",
+    "family": "Basellaceae",
+    "deskripsi": "Bayam Malabar (Gendola) (Basella alba) adalah tanaman dari famili Basellaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun bayam malabar (gendola) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak bayam malabar (gendola) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Bayam Malabar (Gendola) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun bayam malabar (gendola) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan bayam malabar (gendola) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Mango": {
+    "nama_indonesia": "Mangga",
+    "nama_latin": "Mangifera indica",
+    "family": "Anacardiaceae",
+    "deskripsi": "Mangga (Mangifera indica) adalah tanaman dari famili Anacardiaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun mangga mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak mangga memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Mangga telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun mangga yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan mangga secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Marigold": {
+    "nama_indonesia": "Bunga Marigold",
+    "nama_latin": "Tagetes erecta",
+    "family": "Asteraceae",
+    "deskripsi": "Bunga Marigold (Tagetes erecta) adalah tanaman dari famili Asteraceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun bunga marigold mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak bunga marigold memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Bunga Marigold telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun bunga marigold yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan bunga marigold secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Mint": {
+    "nama_indonesia": "Daun Mint",
+    "nama_latin": "Mentha spicata",
+    "family": "Lamiaceae",
+    "deskripsi": "Herba aromatik segar yang digunakan luas sebagai bumbu dan obat. Mentol memberikan sensasi dingin dan memiliki sifat analgesik alami.",
+    "manfaat": [
+      {
+        "judul": "Pereda Gangguan Pencernaan",
+        "deskripsi": "Minyak mint merelaksasi otot saluran pencernaan, mengurangi kembung."
+      },
+      {
+        "judul": "Pereda Sakit Kepala",
+        "deskripsi": "Minyak peppermint dioleskan ke pelipis efektif meredakan sakit kepala."
+      },
+      {
+        "judul": "Penyegar Napas",
+        "deskripsi": "Sifat antibakteri mentol membunuh bakteri penyebab bau mulut."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun daun mint yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan daun mint secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Nagadali": {
+    "nama_indonesia": "Inggu (Common Rue)",
+    "nama_latin": "Ruta graveolens",
+    "family": "Rutaceae",
+    "deskripsi": "Inggu (Common Rue) (Ruta graveolens) adalah tanaman dari famili Rutaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun inggu (common rue) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak inggu (common rue) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Inggu (Common Rue) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun inggu (common rue) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan inggu (common rue) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Neem": {
+    "nama_indonesia": "Mimba (Neem)",
+    "nama_latin": "Azadirachta indica",
+    "family": "Meliaceae",
+    "deskripsi": "Pohon tropis yang dijuluki Farmasi Desa karena hampir seluruh bagiannya berkhasiat obat. Digunakan lebih dari 4000 tahun dalam Ayurveda.",
+    "manfaat": [
+      {
+        "judul": "Antibakteri & Antijamur",
+        "deskripsi": "Senyawa nimbidin dan gedunin efektif melawan bakteri, jamur, dan virus."
+      },
+      {
+        "judul": "Pemurni Darah",
+        "deskripsi": "Membantu membersihkan racun dalam darah dan meningkatkan fungsi hati."
+      },
+      {
+        "judul": "Kesehatan Kulit",
+        "deskripsi": "Mengatasi jerawat, eksim, dan psoriasis."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun mimba (neem) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan mimba (neem) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Nelavembu": {
+    "nama_indonesia": "Sambiloto",
+    "nama_latin": "Andrographis paniculata",
+    "family": "Acanthaceae",
+    "deskripsi": "Tanaman sambiloto yang sangat pahit, dikenal sebagai King of Bitters. Andrografolida di dalamnya merupakan imunomodulator kuat.",
+    "manfaat": [
+      {
+        "judul": "Penangkal Flu",
+        "deskripsi": "Terbukti klinis mengurangi durasi dan keparahan gejala flu."
+      },
+      {
+        "judul": "Pelindung Hati",
+        "deskripsi": "Andrografolida melindungi sel hati dari kerusakan toksin."
+      },
+      {
+        "judul": "Antivirus",
+        "deskripsi": "Memiliki aktivitas antivirus terhadap beberapa jenis virus."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun sambiloto yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan sambiloto secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Nerale": {
+    "nama_indonesia": "Jamblang (Jamun)",
+    "nama_latin": "Syzygium cumini",
+    "family": "Myrtaceae",
+    "deskripsi": "Jamblang (Jamun) (Syzygium cumini) adalah tanaman dari famili Myrtaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun jamblang (jamun) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak jamblang (jamun) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Jamblang (Jamun) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun jamblang (jamun) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan jamblang (jamun) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Nithyapushpa": {
+    "nama_indonesia": "Tapak Dara",
+    "nama_latin": "Catharanthus roseus",
+    "family": "Apocynaceae",
+    "deskripsi": "Tapak Dara (Catharanthus roseus) adalah tanaman dari famili Apocynaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun tapak dara mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak tapak dara memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Tapak Dara telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun tapak dara yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan tapak dara secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Nooni": {
+    "nama_indonesia": "Mengkudu",
+    "nama_latin": "Morinda citrifolia",
+    "family": "Rubiaceae",
+    "deskripsi": "Mengkudu (Morinda citrifolia) adalah tanaman dari famili Rubiaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun mengkudu mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak mengkudu memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Mengkudu telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun mengkudu yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan mengkudu secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Onion": {
+    "nama_indonesia": "Bawang Merah",
+    "nama_latin": "Allium cepa",
+    "family": "Amaryllidaceae",
+    "deskripsi": "Bawang Merah (Allium cepa) adalah tanaman dari famili Amaryllidaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun bawang merah mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak bawang merah memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Bawang Merah telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun bawang merah yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan bawang merah secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Padri": {
+    "nama_indonesia": "Padri (Night Jasmine)",
+    "nama_latin": "Nyctanthes arbor-tristis",
+    "family": "Oleaceae",
+    "deskripsi": "Padri (Night Jasmine) (Nyctanthes arbor-tristis) adalah tanaman dari famili Oleaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun padri (night jasmine) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak padri (night jasmine) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Padri (Night Jasmine) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun padri (night jasmine) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan padri (night jasmine) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Palak(Spinach)": {
+    "nama_indonesia": "Bayam",
+    "nama_latin": "Spinacia oleracea",
+    "family": "Amaranthaceae",
+    "deskripsi": "Bayam (Spinacia oleracea) adalah tanaman dari famili Amaranthaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun bayam mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak bayam memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Bayam telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun bayam yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan bayam secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Papaya": {
+    "nama_indonesia": "Pepaya",
+    "nama_latin": "Carica papaya",
+    "family": "Caricaceae",
+    "deskripsi": "Buah tropis berwarna oranye yang kaya enzim papain. Daun pepaya sangat berkhasiat untuk meningkatkan trombosit pada penderita demam berdarah.",
+    "manfaat": [
+      {
+        "judul": "Penambah Trombosit",
+        "deskripsi": "Ekstrak daun pepaya terbukti meningkatkan trombosit pada penderita DBD."
+      },
+      {
+        "judul": "Enzim Pencernaan",
+        "deskripsi": "Papain membantu pencernaan protein dan mengatasi sembelit."
+      },
+      {
+        "judul": "Anti-Parasit",
+        "deskripsi": "Biji pepaya efektif melawan cacing usus."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun pepaya yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan pepaya secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Parijatha": {
+    "nama_indonesia": "Parijata",
+    "nama_latin": "Nyctanthes arbor-tristis",
+    "family": "Oleaceae",
+    "deskripsi": "Parijata (Nyctanthes arbor-tristis) adalah tanaman dari famili Oleaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun parijata mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak parijata memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Parijata telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun parijata yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan parijata secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Pea": {
+    "nama_indonesia": "Kacang Polong",
+    "nama_latin": "Pisum sativum",
+    "family": "Fabaceae",
+    "deskripsi": "Kacang Polong (Pisum sativum) adalah tanaman dari famili Fabaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun kacang polong mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak kacang polong memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Kacang Polong telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun kacang polong yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan kacang polong secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Pepper": {
+    "nama_indonesia": "Lada (Merica)",
+    "nama_latin": "Piper nigrum",
+    "family": "Piperaceae",
+    "deskripsi": "Raja rempah-rempah yang diperdagangkan selama ribuan tahun. Piperin meningkatkan penyerapan nutrisi dan anti-inflamasi.",
+    "manfaat": [
+      {
+        "judul": "Peningkat Penyerapan",
+        "deskripsi": "Piperin meningkatkan bioavailabilitas kurkumin hingga 2000%."
+      },
+      {
+        "judul": "Stimulan Pencernaan",
+        "deskripsi": "Merangsang enzim pankreas untuk pencernaan yang lebih baik."
+      },
+      {
+        "judul": "Pereda Batuk",
+        "deskripsi": "Campuran lada hitam dan madu merupakan obat batuk tradisional."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun lada (merica) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan lada (merica) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Pomegranate": {
+    "nama_indonesia": "Delima",
+    "nama_latin": "Punica granatum",
+    "family": "Lythraceae",
+    "deskripsi": "Buah merah rubi dengan biji berair penuh antioksidan. Disebut buah surga dalam berbagai budaya.",
+    "manfaat": [
+      {
+        "judul": "Pelindung Jantung",
+        "deskripsi": "Mengurangi plak arteri dan menurunkan tekanan darah."
+      },
+      {
+        "judul": "Anti-Kanker",
+        "deskripsi": "Ellagic acid menghambat pertumbuhan sel kanker di studi laboratorium."
+      },
+      {
+        "judul": "Anti-Penuaan",
+        "deskripsi": "Urolithin A merangsang pembersihan sel tua secara alami."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun delima yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan delima secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Pumpkin": {
+    "nama_indonesia": "Labu Kuning",
+    "nama_latin": "Cucurbita moschata",
+    "family": "Cucurbitaceae",
+    "deskripsi": "Labu Kuning (Cucurbita moschata) adalah tanaman dari famili Cucurbitaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun labu kuning mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak labu kuning memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Labu Kuning telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun labu kuning yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan labu kuning secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Raddish": {
+    "nama_indonesia": "Lobak",
+    "nama_latin": "Raphanus sativus",
+    "family": "Brassicaceae",
+    "deskripsi": "Lobak (Raphanus sativus) adalah tanaman dari famili Brassicaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun lobak mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak lobak memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Lobak telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun lobak yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan lobak secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Raktachandini": {
+    "nama_indonesia": "Cendana Merah",
+    "nama_latin": "Pterocarpus santalinus",
+    "family": "Fabaceae",
+    "deskripsi": "Cendana Merah (Pterocarpus santalinus) adalah tanaman dari famili Fabaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun cendana merah mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak cendana merah memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Cendana Merah telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun cendana merah yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan cendana merah secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Rose": {
+    "nama_indonesia": "Mawar",
+    "nama_latin": "Rosa damascena",
+    "family": "Rosaceae",
+    "deskripsi": "Bunga mawar memiliki kandungan vitamin C dan antioksidan tinggi. Air mawar dan minyak mawar banyak digunakan untuk perawatan kulit dan aromaterapi.",
+    "manfaat": [
+      {
+        "judul": "Perawatan Kulit",
+        "deskripsi": "Air mawar menyeimbangkan pH kulit, mengecilkan pori, dan menyegarkan wajah."
+      },
+      {
+        "judul": "Aromaterapi",
+        "deskripsi": "Aroma mawar mengurangi kecemasan dan meningkatkan suasana hati."
+      },
+      {
+        "judul": "Antioksidan",
+        "deskripsi": "Kelopak mawar mengandung vitamin C dan polifenol."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun mawar yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan mawar secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Sampige": {
+    "nama_indonesia": "Cempaka Kuning",
+    "nama_latin": "Magnolia champaca",
+    "family": "Magnoliaceae",
+    "deskripsi": "Cempaka Kuning (Magnolia champaca) adalah tanaman dari famili Magnoliaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun cempaka kuning mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak cempaka kuning memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Cempaka Kuning telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun cempaka kuning yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan cempaka kuning secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Sapota": {
+    "nama_indonesia": "Sawo",
+    "nama_latin": "Manilkara zapota",
+    "family": "Sapotaceae",
+    "deskripsi": "Sawo (Manilkara zapota) adalah tanaman dari famili Sapotaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun sawo mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak sawo memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Sawo telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun sawo yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan sawo secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Seethaashoka": {
+    "nama_indonesia": "Ashoka Palsu (Polyalthia)",
+    "nama_latin": "Polyalthia longifolia",
+    "family": "Annonaceae",
+    "deskripsi": "Ashoka Palsu (Polyalthia) (Polyalthia longifolia) adalah tanaman dari famili Annonaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun ashoka palsu (polyalthia) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak ashoka palsu (polyalthia) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Ashoka Palsu (Polyalthia) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun ashoka palsu (polyalthia) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan ashoka palsu (polyalthia) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Seethapala": {
+    "nama_indonesia": "Srikaya",
+    "nama_latin": "Annona squamosa",
+    "family": "Annonaceae",
+    "deskripsi": "Srikaya (Annona squamosa) adalah tanaman dari famili Annonaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun srikaya mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak srikaya memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Srikaya telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun srikaya yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan srikaya secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Tamarind": {
+    "nama_indonesia": "Asam Jawa",
+    "nama_latin": "Tamarindus indica",
+    "family": "Fabaceae",
+    "deskripsi": "Asam Jawa (Tamarindus indica) adalah tanaman dari famili Fabaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun asam jawa mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak asam jawa memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Asam Jawa telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun asam jawa yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan asam jawa secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Taro": {
+    "nama_indonesia": "Talas",
+    "nama_latin": "Colocasia esculenta",
+    "family": "Araceae",
+    "deskripsi": "Talas (Colocasia esculenta) adalah tanaman dari famili Araceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun talas mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak talas memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Talas telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun talas yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan talas secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Tecoma": {
+    "nama_indonesia": "Bunga Tecoma",
+    "nama_latin": "Tecoma stans",
+    "family": "Bignoniaceae",
+    "deskripsi": "Bunga Tecoma (Tecoma stans) adalah tanaman dari famili Bignoniaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun bunga tecoma mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak bunga tecoma memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Bunga Tecoma telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun bunga tecoma yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan bunga tecoma secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Thumbe": {
+    "nama_indonesia": "Bunga Thumbe (Leucas)",
+    "nama_latin": "Leucas aspera",
+    "family": "Lamiaceae",
+    "deskripsi": "Bunga Thumbe (Leucas) (Leucas aspera) adalah tanaman dari famili Lamiaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun bunga thumbe (leucas) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak bunga thumbe (leucas) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Bunga Thumbe (Leucas) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun bunga thumbe (leucas) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan bunga thumbe (leucas) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Tomato": {
+    "nama_indonesia": "Tomat",
+    "nama_latin": "Solanum lycopersicum",
+    "family": "Solanaceae",
+    "deskripsi": "Tomat (Solanum lycopersicum) adalah tanaman dari famili Solanaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun tomat mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak tomat memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Tomat telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun tomat yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan tomat secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Tulasi": {
+    "nama_indonesia": "Kemangi Suci (Tulsi)",
+    "nama_latin": "Ocimum tenuiflorum",
+    "family": "Lamiaceae",
+    "deskripsi": "Tanaman sakral dalam tradisi Hindu, tulsi dikenal sebagai Ratu Herbal karena khasiatnya untuk sistem pernapasan dan kekebalan tubuh.",
+    "manfaat": [
+      {
+        "judul": "Pereda Batuk & Pilek",
+        "deskripsi": "Minyak atsiri eugenol dan kamfor membantu melegakan saluran pernapasan."
+      },
+      {
+        "judul": "Penurun Demam",
+        "deskripsi": "Senyawa fitokimia memiliki sifat antipiretik alami."
+      },
+      {
+        "judul": "Adaptogen Alami",
+        "deskripsi": "Membantu tubuh beradaptasi terhadap stres fisik dan mental."
+      },
+      {
+        "judul": "Antibakteri",
+        "deskripsi": "Efektif melawan berbagai bakteri termasuk E. coli dan Staphylococcus."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun kemangi suci (tulsi) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan kemangi suci (tulsi) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Turmeric": {
+    "nama_indonesia": "Kunyit",
+    "nama_latin": "Curcuma longa",
+    "family": "Zingiberaceae",
+    "deskripsi": "Rimpang kuning keemasan yang merupakan bahan utama jamu tradisional Indonesia. Kurkumin di dalamnya adalah senyawa anti-inflamasi dan antioksidan paling kuat.",
+    "manfaat": [
+      {
+        "judul": "Anti-Inflamasi Kuat",
+        "deskripsi": "Kurkumin menghambat molekul NF-kB yang berperan dalam peradangan kronis."
+      },
+      {
+        "judul": "Antioksidan",
+        "deskripsi": "Menetralkan radikal bebas dan merangsang enzim antioksidan alami tubuh."
+      },
+      {
+        "judul": "Kesehatan Pencernaan",
+        "deskripsi": "Merangsang produksi empedu untuk membantu pencernaan lemak."
+      },
+      {
+        "judul": "Penyembuh Luka",
+        "deskripsi": "Pasta kunyit mempercepat regenerasi kulit dan mencegah infeksi."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun kunyit yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan kunyit secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Wood_sorel": {
+    "nama_indonesia": "Semanggi Asam (Calincing)",
+    "nama_latin": "Oxalis corniculata",
+    "family": "Oxalidaceae",
+    "deskripsi": "Semanggi Asam (Calincing) (Oxalis corniculata) adalah tanaman dari famili Oxalidaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun semanggi asam (calincing) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak semanggi asam (calincing) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Semanggi Asam (Calincing) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun semanggi asam (calincing) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan semanggi asam (calincing) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "camphor": {
+    "nama_indonesia": "Kapur Barus",
+    "nama_latin": "Cinnamomum camphora",
+    "family": "Lauraceae",
+    "deskripsi": "Kapur barus dihasilkan dari pohon Cinnamomum camphora. Kristal putih beraroma kuat ini digunakan dalam balsem, inhaler, dan pengobatan tradisional untuk pernapasan.",
+    "manfaat": [
+      {
+        "judul": "Pelega Pernapasan",
+        "deskripsi": "Uap kapur barus melegakan hidung tersumbat dan batuk."
+      },
+      {
+        "judul": "Pereda Nyeri Otot",
+        "deskripsi": "Balsem kapur barus mengurangi nyeri otot dan keseleo."
+      },
+      {
+        "judul": "Penangkal Serangga",
+        "deskripsi": "Aroma kuat kapur barus mengusir nyamuk dan ngengat."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun kapur barus yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Jangan Dimakan",
+        "deskripsi": "Kapur barus BERACUN jika ditelan. Hanya untuk penggunaan luar."
+      },
+      {
+        "judul": "Bayi dan Anak",
+        "deskripsi": "Jangan oleskan di wajah bayi/anak karena risiko kejang."
+      }
+    ]
+  },
+  "kamakasturi": {
+    "nama_indonesia": "Kasturi (Musk Mallow)",
+    "nama_latin": "Abelmoschus moschatus",
+    "family": "Malvaceae",
+    "deskripsi": "Kasturi (Musk Mallow) (Abelmoschus moschatus) adalah tanaman dari famili Malvaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun kasturi (musk mallow) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak kasturi (musk mallow) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Kasturi (Musk Mallow) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun kasturi (musk mallow) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan kasturi (musk mallow) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "kepala": {
+    "nama_indonesia": "Kelapa",
+    "nama_latin": "Cocos nucifera",
+    "family": "Arecaceae",
+    "deskripsi": "Kelapa (Cocos nucifera) adalah tanaman dari famili Arecaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun kelapa mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak kelapa memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Kelapa telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun kelapa yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan kelapa secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Tulsi": {
+    "nama_indonesia": "Kemangi Suci (Tulsi)",
+    "nama_latin": "Ocimum tenuiflorum",
+    "family": "Lamiaceae",
+    "deskripsi": "Tanaman sakral dalam tradisi Hindu, tulsi dikenal sebagai Ratu Herbal karena khasiatnya untuk sistem pernapasan dan kekebalan tubuh.",
+    "manfaat": [
+      {
+        "judul": "Pereda Batuk & Pilek",
+        "deskripsi": "Minyak atsiri eugenol dan kamfor membantu melegakan saluran pernapasan."
+      },
+      {
+        "judul": "Penurun Demam",
+        "deskripsi": "Senyawa fitokimia memiliki sifat antipiretik alami."
+      },
+      {
+        "judul": "Adaptogen Alami",
+        "deskripsi": "Membantu tubuh beradaptasi terhadap stres fisik dan mental."
+      },
+      {
+        "judul": "Antibakteri",
+        "deskripsi": "Efektif melawan berbagai bakteri termasuk E. coli dan Staphylococcus."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun kemangi suci (tulsi) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan kemangi suci (tulsi) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Pappaya": {
+    "nama_indonesia": "Pepaya",
+    "nama_latin": "Carica papaya",
+    "family": "Caricaceae",
+    "deskripsi": "Buah tropis berwarna oranye yang kaya enzim papain. Daun pepaya sangat berkhasiat untuk meningkatkan trombosit pada penderita demam berdarah.",
+    "manfaat": [
+      {
+        "judul": "Penambah Trombosit",
+        "deskripsi": "Ekstrak daun pepaya terbukti meningkatkan trombosit pada penderita DBD."
+      },
+      {
+        "judul": "Enzim Pencernaan",
+        "deskripsi": "Papain membantu pencernaan protein dan mengatasi sembelit."
+      },
+      {
+        "judul": "Anti-Parasit",
+        "deskripsi": "Biji pepaya efektif melawan cacing usus."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun pepaya yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan pepaya secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Pomoegranate": {
+    "nama_indonesia": "Delima",
+    "nama_latin": "Punica granatum",
+    "family": "Lythraceae",
+    "deskripsi": "Buah merah rubi dengan biji berair penuh antioksidan. Disebut buah surga dalam berbagai budaya.",
+    "manfaat": [
+      {
+        "judul": "Pelindung Jantung",
+        "deskripsi": "Mengurangi plak arteri dan menurunkan tekanan darah."
+      },
+      {
+        "judul": "Anti-Kanker",
+        "deskripsi": "Ellagic acid menghambat pertumbuhan sel kanker di studi laboratorium."
+      },
+      {
+        "judul": "Anti-Penuaan",
+        "deskripsi": "Urolithin A merangsang pembersihan sel tua secara alami."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun delima yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan delima secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Lemongrass": {
+    "nama_indonesia": "Serai",
+    "nama_latin": "Cymbopogon citratus",
+    "family": "Poaceae",
+    "deskripsi": "Rumput aromatik beraroma sitrus yang banyak digunakan dalam masakan Asia dan pengobatan tradisional. Kaya sitral yang antimikroba.",
+    "manfaat": [
+      {
+        "judul": "Pereda Demam",
+        "deskripsi": "Dikenal sebagai rumput demam karena kemampuannya menurunkan suhu tubuh."
+      },
+      {
+        "judul": "Penangkal Nyamuk",
+        "deskripsi": "Minyak sitronela efektif mengusir nyamuk dan serangga."
+      },
+      {
+        "judul": "Pencernaan Sehat",
+        "deskripsi": "Teh serai membantu mengatasi kembung, mual, dan kram perut."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun serai yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan serai secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Doddpathre": {
+    "nama_indonesia": "Jintan India (Indian Borage)",
+    "nama_latin": "Plectranthus amboinicus",
+    "family": "Lamiaceae",
+    "deskripsi": "Jintan India (Indian Borage) (Plectranthus amboinicus) adalah tanaman dari famili Lamiaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun jintan india (indian borage) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak jintan india (indian borage) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Jintan India (Indian Borage) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun jintan india (indian borage) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan jintan india (indian borage) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Common rue(naagdalli)": {
+    "nama_indonesia": "Inggu (Common Rue)",
+    "nama_latin": "Ruta graveolens",
+    "family": "Rutaceae",
+    "deskripsi": "Inggu (Common Rue) (Ruta graveolens) adalah tanaman dari famili Rutaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun inggu (common rue) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak inggu (common rue) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Inggu (Common Rue) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun inggu (common rue) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan inggu (common rue) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Spinach1": {
+    "nama_indonesia": "Bayam",
+    "nama_latin": "Spinacia oleracea",
+    "family": "Amaranthaceae",
+    "deskripsi": "Bayam (Spinacia oleracea) adalah tanaman dari famili Amaranthaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun bayam mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak bayam memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Bayam telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun bayam yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan bayam secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Amruthaballi": {
+    "nama_indonesia": "Brotowali",
+    "nama_latin": "Tinospora cordifolia",
+    "family": "Menispermaceae",
+    "deskripsi": "Brotowali (Tinospora cordifolia) adalah tanaman dari famili Menispermaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun brotowali mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak brotowali memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Brotowali telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun brotowali yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan brotowali secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Curry": {
+    "nama_indonesia": "Daun Kari",
+    "nama_latin": "Murraya koenigii",
+    "family": "Rutaceae",
+    "deskripsi": "Daun Kari (Murraya koenigii) adalah tanaman dari famili Rutaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun daun kari mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak daun kari memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Daun Kari telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun daun kari yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan daun kari secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Ganike": {
+    "nama_indonesia": "Ganigale",
+    "nama_latin": "Flacourtia indica",
+    "family": "Salicaceae",
+    "deskripsi": "Ganigale (Flacourtia indica) adalah tanaman dari famili Salicaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun ganigale mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak ganigale memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Ganigale telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun ganigale yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan ganigale secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Brahmi": {
+    "nama_indonesia": "Brahmi (Pegagan India)",
+    "nama_latin": "Bacopa monnieri",
+    "family": "Plantaginaceae",
+    "deskripsi": "Brahmi (Bacopa monnieri) adalah herba air yang dikenal sebagai brain tonic terbaik dalam Ayurveda. Meningkatkan daya ingat dan konsentrasi.",
+    "manfaat": [
+      {
+        "judul": "Penguat Memori",
+        "deskripsi": "Bacoside A dan B meningkatkan transmisi sinyal antar saraf otak."
+      },
+      {
+        "judul": "Anti-Kecemasan",
+        "deskripsi": "Efek anxiolytic alami tanpa efek sedatif berlebihan."
+      },
+      {
+        "judul": "Neuroprotektif",
+        "deskripsi": "Melindungi sel otak dari kerusakan oksidatif dan penuaan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun brahmi (pegagan india) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan brahmi (pegagan india) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Basale": {
+    "nama_indonesia": "Bayam Malabar (Gendola)",
+    "nama_latin": "Basella alba",
+    "family": "Basellaceae",
+    "deskripsi": "Bayam Malabar (Gendola) (Basella alba) adalah tanaman dari famili Basellaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun bayam malabar (gendola) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak bayam malabar (gendola) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Bayam Malabar (Gendola) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun bayam malabar (gendola) yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan bayam malabar (gendola) secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Catharanthus": {
+    "nama_indonesia": "Tapak Dara",
+    "nama_latin": "Catharanthus roseus",
+    "family": "Apocynaceae",
+    "deskripsi": "Tapak Dara (Catharanthus roseus) adalah tanaman dari famili Apocynaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
+    "manfaat": [
+      {
+        "judul": "Antioksidan Alami",
+        "deskripsi": "Daun tapak dara mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
+      },
+      {
+        "judul": "Anti-Inflamasi",
+        "deskripsi": "Ekstrak tapak dara memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
+      },
+      {
+        "judul": "Pengobatan Tradisional",
+        "deskripsi": "Tapak Dara telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun tapak dara yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan tapak dara secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  },
+  "Gauva": {
+    "nama_indonesia": "Jambu Biji",
+    "nama_latin": "Psidium guajava",
+    "family": "Myrtaceae",
+    "deskripsi": "Buah tropis yang sangat kaya vitamin C dan serat. Daun jambu biji kaya antioksidan dan antibakteri untuk pengobatan diare.",
+    "manfaat": [
+      {
+        "judul": "Anti-Diare",
+        "deskripsi": "Rebusan daun jambu biji efektif menghentikan diare berkat kandungan tanin."
+      },
+      {
+        "judul": "Penurun Gula Darah",
+        "deskripsi": "Ekstrak daun menurunkan kadar gula darah pasca makan."
+      },
+      {
+        "judul": "Vitamin C Tinggi",
+        "deskripsi": "Buahnya mengandung 4x lebih banyak vitamin C dibanding jeruk."
+      }
+    ],
+    "penyakit": [
+      "Peradangan",
+      "Infeksi ringan",
+      "Gangguan pencernaan"
+    ],
+    "cara_penggunaan": [
+      {
+        "langkah": "Persiapan",
+        "deskripsi": "Petik daun jambu biji yang segar dan cuci bersih dengan air mengalir."
+      },
+      {
+        "langkah": "Pengolahan",
+        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
+      },
+      {
+        "langkah": "Konsumsi",
+        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
+      }
+    ],
+    "peringatan": [
+      {
+        "judul": "Konsultasi Dokter",
+        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan jambu biji secara rutin."
+      },
+      {
+        "judul": "Dosis Wajar",
+        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
+      }
+    ]
+  }
+}

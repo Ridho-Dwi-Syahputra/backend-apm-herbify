@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Dataset & Scripts (sangat besar / tidak perlu, jangan di-push)
+dataset/
+reports/
+scripts/
+*.ipynb
+
+# IDE / OS files
+.vscode/
+.DS_Store

@@ -1,0 +1,18 @@
+{
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "extraPaths": ["."]
+    }
+  ],
+  "reportMissingImports": "warning",
+  "reportMissingModuleSource": "none",
+  "reportOptionalMemberAccess": "warning",
+  "pythonVersion": "3.10",
+  "venvPath": "",
+  "ignore": [
+    "**/__pycache__",
+    "notebooks",
+    "scripts"
+  ]
+}
