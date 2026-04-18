@@ -8,12 +8,11 @@ venv/
 env/
 .env
 
-# Jupyter Notebooks
-.ipynb_checkpoints/
+
 
 # Dataset & Scripts (sangat besar / tidak perlu, jangan di-push)
 dataset/
-reports/
+
 scripts/
 *.ipynb
 
