@@ -14,7 +14,7 @@ env/
 dataset/
 
 scripts/
-*.ipynb
+
 
 # IDE / OS files
 .vscode/
