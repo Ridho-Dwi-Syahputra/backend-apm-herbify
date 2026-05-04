@@ -1,6 +1,6 @@
 {
-  "Aloevera": {
-    "nama_indonesia": "Lidah Buaya",
+  "Daun Lidah Buaya": {
+    "nama_indonesia": "Daun Lidah Buaya",
     "nama_latin": "Aloe vera",
     "family": "Asphodelaceae",
     "deskripsi": "Tanaman sukulen tropis yang telah digunakan selama berabad-abad untuk penyembuhan kulit, antimikroba, dan anti-inflamasi. Gel bening di dalam daunnya kaya akan vitamin, mineral, dan antioksidan.",
@@ -55,10 +55,11 @@
         "judul": "Peringatan Kehamilan",
         "deskripsi": "Konsumsi oral tidak dianjurkan untuk ibu hamil tanpa konsultasi dokter."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Aloevera"
   },
-  "Amla": {
-    "nama_indonesia": "Amla (Malaka India)",
+  "Daun Amla (Malaka India)": {
+    "nama_indonesia": "Daun Amla (Malaka India)",
     "nama_latin": "Phyllanthus emblica",
     "family": "Phyllanthaceae",
     "deskripsi": "Amla (Malaka India) (Phyllanthus emblica) adalah tanaman dari famili Phyllanthaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -104,10 +105,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Amla"
   },
-  "Amruta_Balli": {
-    "nama_indonesia": "Brotowali",
+  "Daun Brotowali": {
+    "nama_indonesia": "Daun Brotowali",
     "nama_latin": "Tinospora cordifolia",
     "family": "Menispermaceae",
     "deskripsi": "Brotowali (Tinospora cordifolia) adalah tanaman dari famili Menispermaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -153,10 +155,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Amruta_Balli"
   },
-  "Arali": {
-    "nama_indonesia": "Kamboja Jepang",
+  "Daun Kamboja Jepang": {
+    "nama_indonesia": "Daun Kamboja Jepang",
     "nama_latin": "Nerium oleander",
     "family": "Apocynaceae",
     "deskripsi": "Kamboja Jepang (Nerium oleander) adalah tanaman dari famili Apocynaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -202,10 +205,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Arali"
   },
-  "Ashoka": {
-    "nama_indonesia": "Ashoka",
+  "Daun Ashoka": {
+    "nama_indonesia": "Daun Ashoka",
     "nama_latin": "Saraca asoca",
     "family": "Fabaceae",
     "deskripsi": "Ashoka (Saraca asoca) adalah tanaman dari famili Fabaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -251,63 +255,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Ashoka"
   },
-  "Ashwagandha": {
-    "nama_indonesia": "Ashwagandha (Ginseng India)",
-    "nama_latin": "Withania somnifera",
-    "family": "Solanaceae",
-    "deskripsi": "Dikenal sebagai Ginseng India, ashwagandha adalah adaptogen kuat yang digunakan dalam Ayurveda selama 3000 tahun untuk mengurangi stres dan meningkatkan energi.",
-    "manfaat": [
-      {
-        "judul": "Pereda Stres",
-        "deskripsi": "Menurunkan kadar kortisol hingga 30% berdasarkan studi klinis."
-      },
-      {
-        "judul": "Peningkat Energi",
-        "deskripsi": "Meningkatkan stamina tanpa efek stimulan seperti kafein."
-      },
-      {
-        "judul": "Kualitas Tidur",
-        "deskripsi": "Senyawa triethylene glycol membantu memperbaiki kualitas tidur."
-      },
-      {
-        "judul": "Fungsi Otak",
-        "deskripsi": "Meningkatkan memori berkat senyawa withanolide yang bersifat neuroprotektif."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun ashwagandha (ginseng india) yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Kehamilan",
-        "deskripsi": "Dilarang untuk ibu hamil karena dapat menyebabkan kontraksi rahim."
-      },
-      {
-        "judul": "Penyakit Autoimun",
-        "deskripsi": "Hindari jika memiliki lupus atau rheumatoid arthritis."
-      }
-    ]
-  },
-  "Astma_weed": {
-    "nama_indonesia": "Patikan Kebo",
+  "Daun Patikan Kebo": {
+    "nama_indonesia": "Daun Patikan Kebo",
     "nama_latin": "Euphorbia hirta",
     "family": "Euphorbiaceae",
     "deskripsi": "Patikan Kebo (Euphorbia hirta) adalah tanaman dari famili Euphorbiaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -353,59 +305,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Astma_weed"
   },
-  "Avacado": {
-    "nama_indonesia": "Alpukat",
-    "nama_latin": "Persea americana",
-    "family": "Lauraceae",
-    "deskripsi": "Alpukat (Persea americana) adalah tanaman dari famili Lauraceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
-    "manfaat": [
-      {
-        "judul": "Antioksidan Alami",
-        "deskripsi": "Daun alpukat mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
-      },
-      {
-        "judul": "Anti-Inflamasi",
-        "deskripsi": "Ekstrak alpukat memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
-      },
-      {
-        "judul": "Pengobatan Tradisional",
-        "deskripsi": "Alpukat telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun alpukat yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan alpukat secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
-  },
-  "Badipala": {
-    "nama_indonesia": "Badipala (Serai Malabar)",
+  "Daun Badipala (Serai Malabar)": {
+    "nama_indonesia": "Daun Badipala (Serai Malabar)",
     "nama_latin": "Cymbopogon flexuosus",
     "family": "Poaceae",
     "deskripsi": "Badipala (Serai Malabar) (Cymbopogon flexuosus) adalah tanaman dari famili Poaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -451,10 +355,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Badipala"
   },
-  "Balloon_Vine": {
-    "nama_indonesia": "Paria Gunung",
+  "Daun Paria Gunung": {
+    "nama_indonesia": "Daun Paria Gunung",
     "nama_latin": "Cardiospermum halicacabum",
     "family": "Sapindaceae",
     "deskripsi": "Paria gunung (Cardiospermum) adalah tanaman merambat dengan buah balon yang digunakan untuk mengobati rematik dan masalah kulit.",
@@ -500,10 +405,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Balloon_Vine"
   },
-  "Bamboo": {
-    "nama_indonesia": "Bambu",
+  "Daun Bambu": {
+    "nama_indonesia": "Daun Bambu",
     "nama_latin": "Bambusa vulgaris",
     "family": "Poaceae",
     "deskripsi": "Bambu adalah rumput raksasa yang tumbuh cepat. Rebung bambu kaya serat dan mineral, sedangkan daunnya digunakan dalam pengobatan tradisional Asia.",
@@ -549,10 +455,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Bamboo"
   },
-  "Beans": {
-    "nama_indonesia": "Kacang Buncis",
+  "Daun Kacang Buncis": {
+    "nama_indonesia": "Daun Kacang Buncis",
     "nama_latin": "Phaseolus vulgaris",
     "family": "Fabaceae",
     "deskripsi": "Kacang Buncis (Phaseolus vulgaris) adalah tanaman dari famili Fabaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -598,10 +505,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Beans"
   },
-  "Betel": {
-    "nama_indonesia": "Sirih",
+  "Daun Sirih": {
+    "nama_indonesia": "Daun Sirih",
     "nama_latin": "Piper betle",
     "family": "Piperaceae",
     "deskripsi": "Daun sirih telah digunakan dalam budaya Asia selama ribuan tahun. Kaya akan minyak atsiri seperti chavicol dan eugenol yang bersifat antiseptik kuat.",
@@ -647,104 +555,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Betel"
   },
-  "Betel_Nut": {
-    "nama_indonesia": "Pinang",
-    "nama_latin": "Areca catechu",
-    "family": "Arecaceae",
-    "deskripsi": "Buah pinang yang telah lama digunakan dalam tradisi menginang. Mengandung arecoline yang bersifat stimulan ringan.",
-    "manfaat": [
-      {
-        "judul": "Stimulan Ringan",
-        "deskripsi": "Merangsang sistem saraf pusat dan meningkatkan kewaspadaan."
-      },
-      {
-        "judul": "Anti-Parasit",
-        "deskripsi": "Arecoline efektif melawan cacing pita dan parasit usus lainnya."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun pinang yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Risiko Kanker Mulut",
-        "deskripsi": "WHO mengklasifikasikan pinang sebagai karsinogenik. Hindari penggunaan rutin."
-      },
-      {
-        "judul": "Kecanduan",
-        "deskripsi": "Arecoline bersifat adiktif. Penggunaan jangka panjang sangat tidak dianjurkan."
-      }
-    ]
-  },
-  "Bhrami": {
-    "nama_indonesia": "Brahmi (Pegagan India)",
-    "nama_latin": "Bacopa monnieri",
-    "family": "Plantaginaceae",
-    "deskripsi": "Brahmi (Bacopa monnieri) adalah herba air yang dikenal sebagai brain tonic terbaik dalam Ayurveda. Meningkatkan daya ingat dan konsentrasi.",
-    "manfaat": [
-      {
-        "judul": "Penguat Memori",
-        "deskripsi": "Bacoside A dan B meningkatkan transmisi sinyal antar saraf otak."
-      },
-      {
-        "judul": "Anti-Kecemasan",
-        "deskripsi": "Efek anxiolytic alami tanpa efek sedatif berlebihan."
-      },
-      {
-        "judul": "Neuroprotektif",
-        "deskripsi": "Melindungi sel otak dari kerusakan oksidatif dan penuaan."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun brahmi (pegagan india) yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan brahmi (pegagan india) secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
-  },
-  "Bringaraja": {
-    "nama_indonesia": "Urang-Aring",
+  "Daun Urang-Aring": {
+    "nama_indonesia": "Daun Urang-Aring",
     "nama_latin": "Eclipta prostrata",
     "family": "Asteraceae",
     "deskripsi": "Urang-aring (Eclipta prostrata) dikenal sebagai raja rambut dalam Ayurveda. Digunakan untuk perawatan rambut dan kesehatan hati.",
@@ -790,10 +605,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Bringaraja"
   },
-  "Caricature": {
-    "nama_indonesia": "Handeuleum",
+  "Daun Handeuleum": {
+    "nama_indonesia": "Daun Handeuleum",
     "nama_latin": "Graptophyllum pictum",
     "family": "Acanthaceae",
     "deskripsi": "Handeuleum (Graptophyllum pictum) adalah tanaman dari famili Acanthaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -839,10 +655,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Caricature"
   },
-  "Castor": {
-    "nama_indonesia": "Jarak",
+  "Daun Jarak": {
+    "nama_indonesia": "Daun Jarak",
     "nama_latin": "Ricinus communis",
     "family": "Euphorbiaceae",
     "deskripsi": "Tanaman jarak yang menghasilkan minyak kastor (castor oil) yang digunakan luas dalam industri farmasi, kosmetik, dan pengobatan tradisional.",
@@ -888,10 +705,11 @@
         "judul": "Ibu Hamil",
         "deskripsi": "Minyak jarak dapat menyebabkan kontraksi rahim. Dilarang untuk ibu hamil."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Castor"
   },
-  "Chakte": {
-    "nama_indonesia": "Chakte (Teak India)",
+  "Daun Chakte (Teak India)": {
+    "nama_indonesia": "Daun Chakte (Teak India)",
     "nama_latin": "Tectona grandis",
     "family": "Lamiaceae",
     "deskripsi": "Chakte (Teak India) (Tectona grandis) adalah tanaman dari famili Lamiaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -937,10 +755,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Chakte"
   },
-  "Chilly": {
-    "nama_indonesia": "Cabai",
+  "Daun Cabai": {
+    "nama_indonesia": "Daun Cabai",
     "nama_latin": "Capsicum annuum",
     "family": "Solanaceae",
     "deskripsi": "Cabai mengandung capsaicin yang memberikan rasa pedas dan memiliki sifat analgesik, anti-inflamasi, serta meningkatkan metabolisme tubuh.",
@@ -986,10 +805,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Chilly"
   },
-  "Citron lime (herelikai)": {
-    "nama_indonesia": "Jeruk Sitrun",
+  "Daun Jeruk Sitrun": {
+    "nama_indonesia": "Daun Jeruk Sitrun",
     "nama_latin": "Citrus medica",
     "family": "Rutaceae",
     "deskripsi": "Jeruk Sitrun (Citrus medica) adalah tanaman dari famili Rutaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -1035,10 +855,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Citron lime (herelikai)"
   },
-  "Coffee": {
-    "nama_indonesia": "Kopi",
+  "Daun Kopi": {
+    "nama_indonesia": "Daun Kopi",
     "nama_latin": "Coffea arabica",
     "family": "Rubiaceae",
     "deskripsi": "Tanaman kopi yang buahnya mengandung kafein sebagai stimulan alami. Daun kopi juga memiliki khasiat obat dan digunakan sebagai teh herbal di beberapa daerah.",
@@ -1084,10 +905,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Coffee"
   },
-  "Coriender": {
-    "nama_indonesia": "Ketumbar",
+  "Daun Ketumbar": {
+    "nama_indonesia": "Daun Ketumbar",
     "nama_latin": "Coriandrum sativum",
     "family": "Apiaceae",
     "deskripsi": "Ketumbar (Coriandrum sativum) adalah tanaman dari famili Apiaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -1133,9 +955,10 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Coriender"
   },
-  "Curry_Leaf": {
+  "Daun Kari": {
     "nama_indonesia": "Daun Kari",
     "nama_latin": "Murraya koenigii",
     "family": "Rutaceae",
@@ -1182,10 +1005,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Curry_Leaf"
   },
-  "Doddapatre": {
-    "nama_indonesia": "Jintan India (Indian Borage)",
+  "Daun Jintan India (Indian Borage)": {
+    "nama_indonesia": "Daun Jintan India (Indian Borage)",
     "nama_latin": "Plectranthus amboinicus",
     "family": "Lamiaceae",
     "deskripsi": "Jintan India (Indian Borage) (Plectranthus amboinicus) adalah tanaman dari famili Lamiaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -1231,10 +1055,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Doddapatre"
   },
-  "Drumstick": {
-    "nama_indonesia": "Kelor",
+  "Daun Kelor": {
+    "nama_indonesia": "Daun Kelor",
     "nama_latin": "Moringa oleifera",
     "family": "Moringaceae",
     "deskripsi": "Tanaman kelor yang dijuluki Miracle Tree karena kandungan nutrisinya yang luar biasa tinggi.",
@@ -1280,10 +1105,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Drumstick"
   },
-  "Ekka": {
-    "nama_indonesia": "Biduri",
+  "Daun Biduri": {
+    "nama_indonesia": "Daun Biduri",
     "nama_latin": "Calotropis gigantea",
     "family": "Apocynaceae",
     "deskripsi": "Biduri (Calotropis gigantea) adalah tanaman dari famili Apocynaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -1329,10 +1155,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Ekka"
   },
-  "Eucalyptus": {
-    "nama_indonesia": "Kayu Putih (Eucalyptus)",
+  "Daun Kayu Putih (Eucalyptus)": {
+    "nama_indonesia": "Daun Kayu Putih (Eucalyptus)",
     "nama_latin": "Eucalyptus globulus",
     "family": "Myrtaceae",
     "deskripsi": "Pohon asal Australia yang daunnya menghasilkan minyak kayu putih. Senyawa 1,8-cineole sangat efektif untuk melegakan pernapasan.",
@@ -1378,10 +1205,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Eucalyptus"
   },
-  "Ganigale": {
-    "nama_indonesia": "Ganigale",
+  "Daun Ganigale": {
+    "nama_indonesia": "Daun Ganigale",
     "nama_latin": "Flacourtia indica",
     "family": "Salicaceae",
     "deskripsi": "Ganigale (Flacourtia indica) adalah tanaman dari famili Salicaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -1427,10 +1255,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Ganigale"
   },
-  "Gasagase": {
-    "nama_indonesia": "Biji Poppy India",
+  "Daun Biji Poppy India": {
+    "nama_indonesia": "Daun Biji Poppy India",
     "nama_latin": "Papaver somniferum",
     "family": "Papaveraceae",
     "deskripsi": "Biji Poppy India (Papaver somniferum) adalah tanaman dari famili Papaveraceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -1476,59 +1305,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Gasagase"
   },
-  "Geranium": {
-    "nama_indonesia": "Geranium",
-    "nama_latin": "Pelargonium graveolens",
-    "family": "Geraniaceae",
-    "deskripsi": "Geranium (Pelargonium graveolens) adalah tanaman dari famili Geraniaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
-    "manfaat": [
-      {
-        "judul": "Antioksidan Alami",
-        "deskripsi": "Daun geranium mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
-      },
-      {
-        "judul": "Anti-Inflamasi",
-        "deskripsi": "Ekstrak geranium memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
-      },
-      {
-        "judul": "Pengobatan Tradisional",
-        "deskripsi": "Geranium telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun geranium yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan geranium secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
-  },
-  "Ginger": {
-    "nama_indonesia": "Jahe",
+  "Daun Jahe": {
+    "nama_indonesia": "Daun Jahe",
     "nama_latin": "Zingiber officinale",
     "family": "Zingiberaceae",
     "deskripsi": "Rimpang pedas aromatik yang digunakan ribuan tahun sebagai bumbu dan obat tradisional. Gingerol memiliki efek anti-mual, anti-inflamasi, dan antioksidan.",
@@ -1574,10 +1355,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Ginger"
   },
-  "Globe Amarnath": {
-    "nama_indonesia": "Bunga Kenop",
+  "Daun Bunga Kenop": {
+    "nama_indonesia": "Daun Bunga Kenop",
     "nama_latin": "Gomphrena globosa",
     "family": "Amaranthaceae",
     "deskripsi": "Bunga Kenop (Gomphrena globosa) adalah tanaman dari famili Amaranthaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -1623,10 +1405,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Globe Amarnath"
   },
-  "Guava": {
-    "nama_indonesia": "Jambu Biji",
+  "Daun Jambu Biji": {
+    "nama_indonesia": "Daun Jambu Biji",
     "nama_latin": "Psidium guajava",
     "family": "Myrtaceae",
     "deskripsi": "Buah tropis yang sangat kaya vitamin C dan serat. Daun jambu biji kaya antioksidan dan antibakteri untuk pengobatan diare.",
@@ -1672,10 +1455,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Guava"
   },
-  "Henna": {
-    "nama_indonesia": "Pacar Kuku (Henna)",
+  "Daun Pacar Kuku (Henna)": {
+    "nama_indonesia": "Daun Pacar Kuku (Henna)",
     "nama_latin": "Lawsonia inermis",
     "family": "Lythraceae",
     "deskripsi": "Pacar Kuku (Henna) (Lawsonia inermis) adalah tanaman dari famili Lythraceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -1721,10 +1505,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Henna"
   },
-  "Hibiscus": {
-    "nama_indonesia": "Kembang Sepatu",
+  "Daun Kembang Sepatu": {
+    "nama_indonesia": "Daun Kembang Sepatu",
     "nama_latin": "Hibiscus rosa-sinensis",
     "family": "Malvaceae",
     "deskripsi": "Kembang Sepatu (Hibiscus rosa-sinensis) adalah tanaman dari famili Malvaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -1770,10 +1555,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Hibiscus"
   },
-  "Honge": {
-    "nama_indonesia": "Honge (Pongamia)",
+  "Daun Honge (Pongamia)": {
+    "nama_indonesia": "Daun Honge (Pongamia)",
     "nama_latin": "Millettia pinnata",
     "family": "Fabaceae",
     "deskripsi": "Honge (Pongamia) (Millettia pinnata) adalah tanaman dari famili Fabaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -1819,10 +1605,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Honge"
   },
-  "Insulin": {
-    "nama_indonesia": "Tanaman Insulin",
+  "Daun Insulin": {
+    "nama_indonesia": "Daun Insulin",
     "nama_latin": "Costus igneus",
     "family": "Costaceae",
     "deskripsi": "Tanaman Insulin (Costus igneus) adalah tanaman dari famili Costaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -1868,10 +1655,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Insulin"
   },
-  "Jackfruit": {
-    "nama_indonesia": "Nangka",
+  "Daun Nangka": {
+    "nama_indonesia": "Daun Nangka",
     "nama_latin": "Artocarpus heterophyllus",
     "family": "Moraceae",
     "deskripsi": "Nangka (Artocarpus heterophyllus) adalah tanaman dari famili Moraceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -1917,10 +1705,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Jackfruit"
   },
-  "Jasmine": {
-    "nama_indonesia": "Melati",
+  "Daun Melati": {
+    "nama_indonesia": "Daun Melati",
     "nama_latin": "Jasminum sambac",
     "family": "Oleaceae",
     "deskripsi": "Melati (Jasminum sambac) adalah tanaman dari famili Oleaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -1966,10 +1755,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Jasmine"
   },
-  "Kambajala": {
-    "nama_indonesia": "Kambajala (Hop Bush)",
+  "Daun Kambajala (Hop Bush)": {
+    "nama_indonesia": "Daun Kambajala (Hop Bush)",
     "nama_latin": "Dodonaea viscosa",
     "family": "Sapindaceae",
     "deskripsi": "Kambajala (Hop Bush) (Dodonaea viscosa) adalah tanaman dari famili Sapindaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -2015,10 +1805,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Kambajala"
   },
-  "Kasambruga": {
-    "nama_indonesia": "Kasambruga (Trengguli)",
+  "Daun Kasambruga (Trengguli)": {
+    "nama_indonesia": "Daun Kasambruga (Trengguli)",
     "nama_latin": "Cassia fistula",
     "family": "Fabaceae",
     "deskripsi": "Kasambruga (Trengguli) (Cassia fistula) adalah tanaman dari famili Fabaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -2064,10 +1855,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Kasambruga"
   },
-  "Kohlrabi": {
-    "nama_indonesia": "Kohlrabi (Kubis Rabi)",
+  "Daun Kohlrabi (Kubis Rabi)": {
+    "nama_indonesia": "Daun Kohlrabi (Kubis Rabi)",
     "nama_latin": "Brassica oleracea var. gongylodes",
     "family": "Brassicaceae",
     "deskripsi": "Kohlrabi (Kubis Rabi) (Brassica oleracea var. gongylodes) adalah tanaman dari famili Brassicaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -2113,10 +1905,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Kohlrabi"
   },
-  "Lantana": {
-    "nama_indonesia": "Lantana",
+  "Daun Lantana": {
+    "nama_indonesia": "Daun Lantana",
     "nama_latin": "Lantana camara",
     "family": "Verbenaceae",
     "deskripsi": "Lantana (Lantana camara) adalah tanaman dari famili Verbenaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -2162,10 +1955,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Lantana"
   },
-  "Lemon": {
-    "nama_indonesia": "Jeruk Lemon",
+  "Daun Jeruk Lemon": {
+    "nama_indonesia": "Daun Jeruk Lemon",
     "nama_latin": "Citrus limon",
     "family": "Rutaceae",
     "deskripsi": "Jeruk Lemon (Citrus limon) adalah tanaman dari famili Rutaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -2211,10 +2005,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Lemon"
   },
-  "Lemon_grass": {
-    "nama_indonesia": "Serai",
+  "Daun Serai": {
+    "nama_indonesia": "Daun Serai",
     "nama_latin": "Cymbopogon citratus",
     "family": "Poaceae",
     "deskripsi": "Rumput aromatik beraroma sitrus yang banyak digunakan dalam masakan Asia dan pengobatan tradisional. Kaya sitral yang antimikroba.",
@@ -2260,10 +2055,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Lemon_grass"
   },
-  "Malabar_Nut": {
-    "nama_indonesia": "Adhatoda (Malabar Nut)",
+  "Daun Adhatoda (Malabar Nut)": {
+    "nama_indonesia": "Daun Adhatoda (Malabar Nut)",
     "nama_latin": "Justicia adhatoda",
     "family": "Acanthaceae",
     "deskripsi": "Adhatoda (Malabar Nut) (Justicia adhatoda) adalah tanaman dari famili Acanthaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -2309,10 +2105,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Malabar_Nut"
   },
-  "Malabar_Spinach": {
-    "nama_indonesia": "Bayam Malabar (Gendola)",
+  "Daun Bayam Malabar (Gendola)": {
+    "nama_indonesia": "Daun Bayam Malabar (Gendola)",
     "nama_latin": "Basella alba",
     "family": "Basellaceae",
     "deskripsi": "Bayam Malabar (Gendola) (Basella alba) adalah tanaman dari famili Basellaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -2358,10 +2155,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Malabar_Spinach"
   },
-  "Mango": {
-    "nama_indonesia": "Mangga",
+  "Daun Mangga": {
+    "nama_indonesia": "Daun Mangga",
     "nama_latin": "Mangifera indica",
     "family": "Anacardiaceae",
     "deskripsi": "Mangga (Mangifera indica) adalah tanaman dari famili Anacardiaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -2407,10 +2205,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Mango"
   },
-  "Marigold": {
-    "nama_indonesia": "Bunga Marigold",
+  "Daun Bunga Marigold": {
+    "nama_indonesia": "Daun Bunga Marigold",
     "nama_latin": "Tagetes erecta",
     "family": "Asteraceae",
     "deskripsi": "Bunga Marigold (Tagetes erecta) adalah tanaman dari famili Asteraceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -2456,9 +2255,10 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Marigold"
   },
-  "Mint": {
+  "Daun Mint": {
     "nama_indonesia": "Daun Mint",
     "nama_latin": "Mentha spicata",
     "family": "Lamiaceae",
@@ -2505,10 +2305,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Mint"
   },
-  "Nagadali": {
-    "nama_indonesia": "Inggu (Common Rue)",
+  "Daun Inggu (Common Rue)": {
+    "nama_indonesia": "Daun Inggu (Common Rue)",
     "nama_latin": "Ruta graveolens",
     "family": "Rutaceae",
     "deskripsi": "Inggu (Common Rue) (Ruta graveolens) adalah tanaman dari famili Rutaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -2554,10 +2355,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Nagadali"
   },
-  "Neem": {
-    "nama_indonesia": "Mimba (Neem)",
+  "Daun Mimba (Neem)": {
+    "nama_indonesia": "Daun Mimba (Neem)",
     "nama_latin": "Azadirachta indica",
     "family": "Meliaceae",
     "deskripsi": "Pohon tropis yang dijuluki Farmasi Desa karena hampir seluruh bagiannya berkhasiat obat. Digunakan lebih dari 4000 tahun dalam Ayurveda.",
@@ -2603,10 +2405,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Neem"
   },
-  "Nelavembu": {
-    "nama_indonesia": "Sambiloto",
+  "Daun Sambiloto": {
+    "nama_indonesia": "Daun Sambiloto",
     "nama_latin": "Andrographis paniculata",
     "family": "Acanthaceae",
     "deskripsi": "Tanaman sambiloto yang sangat pahit, dikenal sebagai King of Bitters. Andrografolida di dalamnya merupakan imunomodulator kuat.",
@@ -2652,10 +2455,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Nelavembu"
   },
-  "Nerale": {
-    "nama_indonesia": "Jamblang (Jamun)",
+  "Daun Jamblang (Jamun)": {
+    "nama_indonesia": "Daun Jamblang (Jamun)",
     "nama_latin": "Syzygium cumini",
     "family": "Myrtaceae",
     "deskripsi": "Jamblang (Jamun) (Syzygium cumini) adalah tanaman dari famili Myrtaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -2701,10 +2505,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Nerale"
   },
-  "Nithyapushpa": {
-    "nama_indonesia": "Tapak Dara",
+  "Daun Tapak Dara": {
+    "nama_indonesia": "Daun Tapak Dara",
     "nama_latin": "Catharanthus roseus",
     "family": "Apocynaceae",
     "deskripsi": "Tapak Dara (Catharanthus roseus) adalah tanaman dari famili Apocynaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -2750,10 +2555,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Nithyapushpa"
   },
-  "Nooni": {
-    "nama_indonesia": "Mengkudu",
+  "Daun Mengkudu": {
+    "nama_indonesia": "Daun Mengkudu",
     "nama_latin": "Morinda citrifolia",
     "family": "Rubiaceae",
     "deskripsi": "Mengkudu (Morinda citrifolia) adalah tanaman dari famili Rubiaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -2799,10 +2605,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Nooni"
   },
-  "Onion": {
-    "nama_indonesia": "Bawang Merah",
+  "Daun Bawang Merah": {
+    "nama_indonesia": "Daun Bawang Merah",
     "nama_latin": "Allium cepa",
     "family": "Amaryllidaceae",
     "deskripsi": "Bawang Merah (Allium cepa) adalah tanaman dari famili Amaryllidaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -2848,10 +2655,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Onion"
   },
-  "Padri": {
-    "nama_indonesia": "Padri (Night Jasmine)",
+  "Daun Padri (Night Jasmine)": {
+    "nama_indonesia": "Daun Padri (Night Jasmine)",
     "nama_latin": "Nyctanthes arbor-tristis",
     "family": "Oleaceae",
     "deskripsi": "Padri (Night Jasmine) (Nyctanthes arbor-tristis) adalah tanaman dari famili Oleaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -2897,59 +2705,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Padri"
   },
-  "Palak(Spinach)": {
-    "nama_indonesia": "Bayam",
-    "nama_latin": "Spinacia oleracea",
-    "family": "Amaranthaceae",
-    "deskripsi": "Bayam (Spinacia oleracea) adalah tanaman dari famili Amaranthaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
-    "manfaat": [
-      {
-        "judul": "Antioksidan Alami",
-        "deskripsi": "Daun bayam mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
-      },
-      {
-        "judul": "Anti-Inflamasi",
-        "deskripsi": "Ekstrak bayam memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
-      },
-      {
-        "judul": "Pengobatan Tradisional",
-        "deskripsi": "Bayam telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun bayam yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan bayam secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
-  },
-  "Papaya": {
-    "nama_indonesia": "Pepaya",
+  "Daun Pepaya": {
+    "nama_indonesia": "Daun Pepaya",
     "nama_latin": "Carica papaya",
     "family": "Caricaceae",
     "deskripsi": "Buah tropis berwarna oranye yang kaya enzim papain. Daun pepaya sangat berkhasiat untuk meningkatkan trombosit pada penderita demam berdarah.",
@@ -2995,10 +2755,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Papaya"
   },
-  "Parijatha": {
-    "nama_indonesia": "Parijata",
+  "Daun Parijata": {
+    "nama_indonesia": "Daun Parijata",
     "nama_latin": "Nyctanthes arbor-tristis",
     "family": "Oleaceae",
     "deskripsi": "Parijata (Nyctanthes arbor-tristis) adalah tanaman dari famili Oleaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -3044,10 +2805,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Parijatha"
   },
-  "Pea": {
-    "nama_indonesia": "Kacang Polong",
+  "Daun Kacang Polong": {
+    "nama_indonesia": "Daun Kacang Polong",
     "nama_latin": "Pisum sativum",
     "family": "Fabaceae",
     "deskripsi": "Kacang Polong (Pisum sativum) adalah tanaman dari famili Fabaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -3093,10 +2855,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Pea"
   },
-  "Pepper": {
-    "nama_indonesia": "Lada (Merica)",
+  "Daun Lada (Merica)": {
+    "nama_indonesia": "Daun Lada (Merica)",
     "nama_latin": "Piper nigrum",
     "family": "Piperaceae",
     "deskripsi": "Raja rempah-rempah yang diperdagangkan selama ribuan tahun. Piperin meningkatkan penyerapan nutrisi dan anti-inflamasi.",
@@ -3142,10 +2905,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Pepper"
   },
-  "Pomegranate": {
-    "nama_indonesia": "Delima",
+  "Daun Delima": {
+    "nama_indonesia": "Daun Delima",
     "nama_latin": "Punica granatum",
     "family": "Lythraceae",
     "deskripsi": "Buah merah rubi dengan biji berair penuh antioksidan. Disebut buah surga dalam berbagai budaya.",
@@ -3191,10 +2955,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Pomegranate"
   },
-  "Pumpkin": {
-    "nama_indonesia": "Labu Kuning",
+  "Daun Labu Kuning": {
+    "nama_indonesia": "Daun Labu Kuning",
     "nama_latin": "Cucurbita moschata",
     "family": "Cucurbitaceae",
     "deskripsi": "Labu Kuning (Cucurbita moschata) adalah tanaman dari famili Cucurbitaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -3240,10 +3005,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Pumpkin"
   },
-  "Raddish": {
-    "nama_indonesia": "Lobak",
+  "Daun Lobak": {
+    "nama_indonesia": "Daun Lobak",
     "nama_latin": "Raphanus sativus",
     "family": "Brassicaceae",
     "deskripsi": "Lobak (Raphanus sativus) adalah tanaman dari famili Brassicaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -3289,59 +3055,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Raddish"
   },
-  "Raktachandini": {
-    "nama_indonesia": "Cendana Merah",
-    "nama_latin": "Pterocarpus santalinus",
-    "family": "Fabaceae",
-    "deskripsi": "Cendana Merah (Pterocarpus santalinus) adalah tanaman dari famili Fabaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
-    "manfaat": [
-      {
-        "judul": "Antioksidan Alami",
-        "deskripsi": "Daun cendana merah mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
-      },
-      {
-        "judul": "Anti-Inflamasi",
-        "deskripsi": "Ekstrak cendana merah memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
-      },
-      {
-        "judul": "Pengobatan Tradisional",
-        "deskripsi": "Cendana Merah telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun cendana merah yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan cendana merah secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
-  },
-  "Rose": {
-    "nama_indonesia": "Mawar",
+  "Daun Mawar": {
+    "nama_indonesia": "Daun Mawar",
     "nama_latin": "Rosa damascena",
     "family": "Rosaceae",
     "deskripsi": "Bunga mawar memiliki kandungan vitamin C dan antioksidan tinggi. Air mawar dan minyak mawar banyak digunakan untuk perawatan kulit dan aromaterapi.",
@@ -3387,10 +3105,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Rose"
   },
-  "Sampige": {
-    "nama_indonesia": "Cempaka Kuning",
+  "Daun Cempaka Kuning": {
+    "nama_indonesia": "Daun Cempaka Kuning",
     "nama_latin": "Magnolia champaca",
     "family": "Magnoliaceae",
     "deskripsi": "Cempaka Kuning (Magnolia champaca) adalah tanaman dari famili Magnoliaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -3436,10 +3155,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Sampige"
   },
-  "Sapota": {
-    "nama_indonesia": "Sawo",
+  "Daun Sawo": {
+    "nama_indonesia": "Daun Sawo",
     "nama_latin": "Manilkara zapota",
     "family": "Sapotaceae",
     "deskripsi": "Sawo (Manilkara zapota) adalah tanaman dari famili Sapotaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -3485,59 +3205,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Sapota"
   },
-  "Seethaashoka": {
-    "nama_indonesia": "Ashoka Palsu (Polyalthia)",
-    "nama_latin": "Polyalthia longifolia",
-    "family": "Annonaceae",
-    "deskripsi": "Ashoka Palsu (Polyalthia) (Polyalthia longifolia) adalah tanaman dari famili Annonaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
-    "manfaat": [
-      {
-        "judul": "Antioksidan Alami",
-        "deskripsi": "Daun ashoka palsu (polyalthia) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
-      },
-      {
-        "judul": "Anti-Inflamasi",
-        "deskripsi": "Ekstrak ashoka palsu (polyalthia) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
-      },
-      {
-        "judul": "Pengobatan Tradisional",
-        "deskripsi": "Ashoka Palsu (Polyalthia) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun ashoka palsu (polyalthia) yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan ashoka palsu (polyalthia) secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
-  },
-  "Seethapala": {
-    "nama_indonesia": "Srikaya",
+  "Daun Srikaya": {
+    "nama_indonesia": "Daun Srikaya",
     "nama_latin": "Annona squamosa",
     "family": "Annonaceae",
     "deskripsi": "Srikaya (Annona squamosa) adalah tanaman dari famili Annonaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -3583,10 +3255,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Seethapala"
   },
-  "Tamarind": {
-    "nama_indonesia": "Asam Jawa",
+  "Daun Asam Jawa": {
+    "nama_indonesia": "Daun Asam Jawa",
     "nama_latin": "Tamarindus indica",
     "family": "Fabaceae",
     "deskripsi": "Asam Jawa (Tamarindus indica) adalah tanaman dari famili Fabaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -3632,10 +3305,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Tamarind"
   },
-  "Taro": {
-    "nama_indonesia": "Talas",
+  "Daun Talas": {
+    "nama_indonesia": "Daun Talas",
     "nama_latin": "Colocasia esculenta",
     "family": "Araceae",
     "deskripsi": "Talas (Colocasia esculenta) adalah tanaman dari famili Araceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -3681,10 +3355,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Taro"
   },
-  "Tecoma": {
-    "nama_indonesia": "Bunga Tecoma",
+  "Daun Bunga Tecoma": {
+    "nama_indonesia": "Daun Bunga Tecoma",
     "nama_latin": "Tecoma stans",
     "family": "Bignoniaceae",
     "deskripsi": "Bunga Tecoma (Tecoma stans) adalah tanaman dari famili Bignoniaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -3730,10 +3405,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Tecoma"
   },
-  "Thumbe": {
-    "nama_indonesia": "Bunga Thumbe (Leucas)",
+  "Daun Bunga Thumbe (Leucas)": {
+    "nama_indonesia": "Daun Bunga Thumbe (Leucas)",
     "nama_latin": "Leucas aspera",
     "family": "Lamiaceae",
     "deskripsi": "Bunga Thumbe (Leucas) (Leucas aspera) adalah tanaman dari famili Lamiaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -3779,10 +3455,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Thumbe"
   },
-  "Tomato": {
-    "nama_indonesia": "Tomat",
+  "Daun Tomat": {
+    "nama_indonesia": "Daun Tomat",
     "nama_latin": "Solanum lycopersicum",
     "family": "Solanaceae",
     "deskripsi": "Tomat (Solanum lycopersicum) adalah tanaman dari famili Solanaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -3828,63 +3505,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Tomato"
   },
-  "Tulasi": {
-    "nama_indonesia": "Kemangi Suci (Tulsi)",
-    "nama_latin": "Ocimum tenuiflorum",
-    "family": "Lamiaceae",
-    "deskripsi": "Tanaman sakral dalam tradisi Hindu, tulsi dikenal sebagai Ratu Herbal karena khasiatnya untuk sistem pernapasan dan kekebalan tubuh.",
-    "manfaat": [
-      {
-        "judul": "Pereda Batuk & Pilek",
-        "deskripsi": "Minyak atsiri eugenol dan kamfor membantu melegakan saluran pernapasan."
-      },
-      {
-        "judul": "Penurun Demam",
-        "deskripsi": "Senyawa fitokimia memiliki sifat antipiretik alami."
-      },
-      {
-        "judul": "Adaptogen Alami",
-        "deskripsi": "Membantu tubuh beradaptasi terhadap stres fisik dan mental."
-      },
-      {
-        "judul": "Antibakteri",
-        "deskripsi": "Efektif melawan berbagai bakteri termasuk E. coli dan Staphylococcus."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun kemangi suci (tulsi) yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan kemangi suci (tulsi) secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
-  },
-  "Turmeric": {
-    "nama_indonesia": "Kunyit",
+  "Daun Kunyit": {
+    "nama_indonesia": "Daun Kunyit",
     "nama_latin": "Curcuma longa",
     "family": "Zingiberaceae",
     "deskripsi": "Rimpang kuning keemasan yang merupakan bahan utama jamu tradisional Indonesia. Kurkumin di dalamnya adalah senyawa anti-inflamasi dan antioksidan paling kuat.",
@@ -3934,59 +3559,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Turmeric"
   },
-  "Wood_sorel": {
-    "nama_indonesia": "Semanggi Asam (Calincing)",
-    "nama_latin": "Oxalis corniculata",
-    "family": "Oxalidaceae",
-    "deskripsi": "Semanggi Asam (Calincing) (Oxalis corniculata) adalah tanaman dari famili Oxalidaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
-    "manfaat": [
-      {
-        "judul": "Antioksidan Alami",
-        "deskripsi": "Daun semanggi asam (calincing) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
-      },
-      {
-        "judul": "Anti-Inflamasi",
-        "deskripsi": "Ekstrak semanggi asam (calincing) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
-      },
-      {
-        "judul": "Pengobatan Tradisional",
-        "deskripsi": "Semanggi Asam (Calincing) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun semanggi asam (calincing) yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan semanggi asam (calincing) secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
-  },
-  "camphor": {
-    "nama_indonesia": "Kapur Barus",
+  "Daun Kapur Barus": {
+    "nama_indonesia": "Daun Kapur Barus",
     "nama_latin": "Cinnamomum camphora",
     "family": "Lauraceae",
     "deskripsi": "Kapur barus dihasilkan dari pohon Cinnamomum camphora. Kristal putih beraroma kuat ini digunakan dalam balsem, inhaler, dan pengobatan tradisional untuk pernapasan.",
@@ -4032,10 +3609,11 @@
         "judul": "Bayi dan Anak",
         "deskripsi": "Jangan oleskan di wajah bayi/anak karena risiko kejang."
       }
-    ]
+    ],
+    "nama_asli_dataset": "camphor"
   },
-  "kamakasturi": {
-    "nama_indonesia": "Kasturi (Musk Mallow)",
+  "Daun Kasturi (Musk Mallow)": {
+    "nama_indonesia": "Daun Kasturi (Musk Mallow)",
     "nama_latin": "Abelmoschus moschatus",
     "family": "Malvaceae",
     "deskripsi": "Kasturi (Musk Mallow) (Abelmoschus moschatus) adalah tanaman dari famili Malvaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
@@ -4081,59 +3659,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "kamakasturi"
   },
-  "kepala": {
-    "nama_indonesia": "Kelapa",
-    "nama_latin": "Cocos nucifera",
-    "family": "Arecaceae",
-    "deskripsi": "Kelapa (Cocos nucifera) adalah tanaman dari famili Arecaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
-    "manfaat": [
-      {
-        "judul": "Antioksidan Alami",
-        "deskripsi": "Daun kelapa mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
-      },
-      {
-        "judul": "Anti-Inflamasi",
-        "deskripsi": "Ekstrak kelapa memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
-      },
-      {
-        "judul": "Pengobatan Tradisional",
-        "deskripsi": "Kelapa telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun kelapa yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan kelapa secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
-  },
-  "Tulsi": {
-    "nama_indonesia": "Kemangi Suci (Tulsi)",
+  "Daun Kemangi Suci (Tulsi)": {
+    "nama_indonesia": "Daun Kemangi Suci (Tulsi)",
     "nama_latin": "Ocimum tenuiflorum",
     "family": "Lamiaceae",
     "deskripsi": "Tanaman sakral dalam tradisi Hindu, tulsi dikenal sebagai Ratu Herbal karena khasiatnya untuk sistem pernapasan dan kekebalan tubuh.",
@@ -4183,451 +3713,11 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
+    ],
+    "nama_asli_dataset": "Tulsi"
   },
-  "Pappaya": {
-    "nama_indonesia": "Pepaya",
-    "nama_latin": "Carica papaya",
-    "family": "Caricaceae",
-    "deskripsi": "Buah tropis berwarna oranye yang kaya enzim papain. Daun pepaya sangat berkhasiat untuk meningkatkan trombosit pada penderita demam berdarah.",
-    "manfaat": [
-      {
-        "judul": "Penambah Trombosit",
-        "deskripsi": "Ekstrak daun pepaya terbukti meningkatkan trombosit pada penderita DBD."
-      },
-      {
-        "judul": "Enzim Pencernaan",
-        "deskripsi": "Papain membantu pencernaan protein dan mengatasi sembelit."
-      },
-      {
-        "judul": "Anti-Parasit",
-        "deskripsi": "Biji pepaya efektif melawan cacing usus."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun pepaya yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan pepaya secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
-  },
-  "Pomoegranate": {
-    "nama_indonesia": "Delima",
-    "nama_latin": "Punica granatum",
-    "family": "Lythraceae",
-    "deskripsi": "Buah merah rubi dengan biji berair penuh antioksidan. Disebut buah surga dalam berbagai budaya.",
-    "manfaat": [
-      {
-        "judul": "Pelindung Jantung",
-        "deskripsi": "Mengurangi plak arteri dan menurunkan tekanan darah."
-      },
-      {
-        "judul": "Anti-Kanker",
-        "deskripsi": "Ellagic acid menghambat pertumbuhan sel kanker di studi laboratorium."
-      },
-      {
-        "judul": "Anti-Penuaan",
-        "deskripsi": "Urolithin A merangsang pembersihan sel tua secara alami."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun delima yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan delima secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
-  },
-  "Lemongrass": {
-    "nama_indonesia": "Serai",
-    "nama_latin": "Cymbopogon citratus",
-    "family": "Poaceae",
-    "deskripsi": "Rumput aromatik beraroma sitrus yang banyak digunakan dalam masakan Asia dan pengobatan tradisional. Kaya sitral yang antimikroba.",
-    "manfaat": [
-      {
-        "judul": "Pereda Demam",
-        "deskripsi": "Dikenal sebagai rumput demam karena kemampuannya menurunkan suhu tubuh."
-      },
-      {
-        "judul": "Penangkal Nyamuk",
-        "deskripsi": "Minyak sitronela efektif mengusir nyamuk dan serangga."
-      },
-      {
-        "judul": "Pencernaan Sehat",
-        "deskripsi": "Teh serai membantu mengatasi kembung, mual, dan kram perut."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun serai yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan serai secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
-  },
-  "Doddpathre": {
-    "nama_indonesia": "Jintan India (Indian Borage)",
-    "nama_latin": "Plectranthus amboinicus",
-    "family": "Lamiaceae",
-    "deskripsi": "Jintan India (Indian Borage) (Plectranthus amboinicus) adalah tanaman dari famili Lamiaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
-    "manfaat": [
-      {
-        "judul": "Antioksidan Alami",
-        "deskripsi": "Daun jintan india (indian borage) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
-      },
-      {
-        "judul": "Anti-Inflamasi",
-        "deskripsi": "Ekstrak jintan india (indian borage) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
-      },
-      {
-        "judul": "Pengobatan Tradisional",
-        "deskripsi": "Jintan India (Indian Borage) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun jintan india (indian borage) yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan jintan india (indian borage) secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
-  },
-  "Common rue(naagdalli)": {
-    "nama_indonesia": "Inggu (Common Rue)",
-    "nama_latin": "Ruta graveolens",
-    "family": "Rutaceae",
-    "deskripsi": "Inggu (Common Rue) (Ruta graveolens) adalah tanaman dari famili Rutaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
-    "manfaat": [
-      {
-        "judul": "Antioksidan Alami",
-        "deskripsi": "Daun inggu (common rue) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
-      },
-      {
-        "judul": "Anti-Inflamasi",
-        "deskripsi": "Ekstrak inggu (common rue) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
-      },
-      {
-        "judul": "Pengobatan Tradisional",
-        "deskripsi": "Inggu (Common Rue) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun inggu (common rue) yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan inggu (common rue) secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
-  },
-  "Spinach1": {
-    "nama_indonesia": "Bayam",
-    "nama_latin": "Spinacia oleracea",
-    "family": "Amaranthaceae",
-    "deskripsi": "Bayam (Spinacia oleracea) adalah tanaman dari famili Amaranthaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
-    "manfaat": [
-      {
-        "judul": "Antioksidan Alami",
-        "deskripsi": "Daun bayam mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
-      },
-      {
-        "judul": "Anti-Inflamasi",
-        "deskripsi": "Ekstrak bayam memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
-      },
-      {
-        "judul": "Pengobatan Tradisional",
-        "deskripsi": "Bayam telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun bayam yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan bayam secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
-  },
-  "Amruthaballi": {
-    "nama_indonesia": "Brotowali",
-    "nama_latin": "Tinospora cordifolia",
-    "family": "Menispermaceae",
-    "deskripsi": "Brotowali (Tinospora cordifolia) adalah tanaman dari famili Menispermaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
-    "manfaat": [
-      {
-        "judul": "Antioksidan Alami",
-        "deskripsi": "Daun brotowali mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
-      },
-      {
-        "judul": "Anti-Inflamasi",
-        "deskripsi": "Ekstrak brotowali memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
-      },
-      {
-        "judul": "Pengobatan Tradisional",
-        "deskripsi": "Brotowali telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun brotowali yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan brotowali secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
-  },
-  "Curry": {
-    "nama_indonesia": "Daun Kari",
-    "nama_latin": "Murraya koenigii",
-    "family": "Rutaceae",
-    "deskripsi": "Daun Kari (Murraya koenigii) adalah tanaman dari famili Rutaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
-    "manfaat": [
-      {
-        "judul": "Antioksidan Alami",
-        "deskripsi": "Daun daun kari mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
-      },
-      {
-        "judul": "Anti-Inflamasi",
-        "deskripsi": "Ekstrak daun kari memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
-      },
-      {
-        "judul": "Pengobatan Tradisional",
-        "deskripsi": "Daun Kari telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun daun kari yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan daun kari secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
-  },
-  "Ganike": {
-    "nama_indonesia": "Ganigale",
-    "nama_latin": "Flacourtia indica",
-    "family": "Salicaceae",
-    "deskripsi": "Ganigale (Flacourtia indica) adalah tanaman dari famili Salicaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
-    "manfaat": [
-      {
-        "judul": "Antioksidan Alami",
-        "deskripsi": "Daun ganigale mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
-      },
-      {
-        "judul": "Anti-Inflamasi",
-        "deskripsi": "Ekstrak ganigale memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
-      },
-      {
-        "judul": "Pengobatan Tradisional",
-        "deskripsi": "Ganigale telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun ganigale yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan ganigale secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
-  },
-  "Brahmi": {
-    "nama_indonesia": "Brahmi (Pegagan India)",
+  "Daun Brahmi (Pegagan India)": {
+    "nama_indonesia": "Daun Brahmi (Pegagan India)",
     "nama_latin": "Bacopa monnieri",
     "family": "Plantaginaceae",
     "deskripsi": "Brahmi (Bacopa monnieri) adalah herba air yang dikenal sebagai brain tonic terbaik dalam Ayurveda. Meningkatkan daya ingat dan konsentrasi.",
@@ -4673,153 +3763,7 @@
         "judul": "Dosis Wajar",
         "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
       }
-    ]
-  },
-  "Basale": {
-    "nama_indonesia": "Bayam Malabar (Gendola)",
-    "nama_latin": "Basella alba",
-    "family": "Basellaceae",
-    "deskripsi": "Bayam Malabar (Gendola) (Basella alba) adalah tanaman dari famili Basellaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
-    "manfaat": [
-      {
-        "judul": "Antioksidan Alami",
-        "deskripsi": "Daun bayam malabar (gendola) mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
-      },
-      {
-        "judul": "Anti-Inflamasi",
-        "deskripsi": "Ekstrak bayam malabar (gendola) memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
-      },
-      {
-        "judul": "Pengobatan Tradisional",
-        "deskripsi": "Bayam Malabar (Gendola) telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
-      }
     ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun bayam malabar (gendola) yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan bayam malabar (gendola) secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
-  },
-  "Catharanthus": {
-    "nama_indonesia": "Tapak Dara",
-    "nama_latin": "Catharanthus roseus",
-    "family": "Apocynaceae",
-    "deskripsi": "Tapak Dara (Catharanthus roseus) adalah tanaman dari famili Apocynaceae yang dikenal memiliki berbagai khasiat dalam pengobatan tradisional.",
-    "manfaat": [
-      {
-        "judul": "Antioksidan Alami",
-        "deskripsi": "Daun tapak dara mengandung senyawa antioksidan yang membantu melindungi sel tubuh dari kerusakan radikal bebas."
-      },
-      {
-        "judul": "Anti-Inflamasi",
-        "deskripsi": "Ekstrak tapak dara memiliki sifat anti-inflamasi yang dapat membantu mengurangi peradangan."
-      },
-      {
-        "judul": "Pengobatan Tradisional",
-        "deskripsi": "Tapak Dara telah lama digunakan dalam sistem pengobatan tradisional untuk berbagai kondisi kesehatan."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun tapak dara yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan tapak dara secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
-  },
-  "Gauva": {
-    "nama_indonesia": "Jambu Biji",
-    "nama_latin": "Psidium guajava",
-    "family": "Myrtaceae",
-    "deskripsi": "Buah tropis yang sangat kaya vitamin C dan serat. Daun jambu biji kaya antioksidan dan antibakteri untuk pengobatan diare.",
-    "manfaat": [
-      {
-        "judul": "Anti-Diare",
-        "deskripsi": "Rebusan daun jambu biji efektif menghentikan diare berkat kandungan tanin."
-      },
-      {
-        "judul": "Penurun Gula Darah",
-        "deskripsi": "Ekstrak daun menurunkan kadar gula darah pasca makan."
-      },
-      {
-        "judul": "Vitamin C Tinggi",
-        "deskripsi": "Buahnya mengandung 4x lebih banyak vitamin C dibanding jeruk."
-      }
-    ],
-    "penyakit": [
-      "Peradangan",
-      "Infeksi ringan",
-      "Gangguan pencernaan"
-    ],
-    "cara_penggunaan": [
-      {
-        "langkah": "Persiapan",
-        "deskripsi": "Petik daun jambu biji yang segar dan cuci bersih dengan air mengalir."
-      },
-      {
-        "langkah": "Pengolahan",
-        "deskripsi": "Rebus dengan 2 gelas air hingga tersisa setengahnya, atau tumbuk halus untuk penggunaan luar."
-      },
-      {
-        "langkah": "Konsumsi",
-        "deskripsi": "Minum air rebusan 1-2 kali sehari atau oleskan pada area yang membutuhkan."
-      }
-    ],
-    "peringatan": [
-      {
-        "judul": "Konsultasi Dokter",
-        "deskripsi": "Konsultasikan dengan dokter atau herbalis sebelum menggunakan jambu biji secara rutin."
-      },
-      {
-        "judul": "Dosis Wajar",
-        "deskripsi": "Jangan mengonsumsi secara berlebihan. Gunakan dalam dosis wajar sesuai anjuran tradisional."
-      }
-    ]
+    "nama_asli_dataset": "Brahmi"
   }
 }

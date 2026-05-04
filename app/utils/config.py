@@ -18,10 +18,15 @@ from pathlib import Path
 # Struktur: backend/app/utils/config.py → naik 3 level = backend/
 BASE_DIR = Path(__file__).resolve().parent.parent.parent  # backend/
 
-# Dataset paths — KEDUA dataset digunakan (digabungkan)
+# Dataset paths — HANYA Medicinal Leaf dataset yang digunakan
 DATASET_DIR = BASE_DIR / "dataset" / "Indian Medicinal Leaves Image Datasets"
-PLANT_DATASET_DIR = DATASET_DIR / "Medicinal plant dataset"   # 40 kelas
-LEAF_DATASET_DIR = DATASET_DIR / "Medicinal Leaf dataset"     # 80 kelas
+PLANT_DATASET_DIR = DATASET_DIR / "Medicinal plant dataset"   # 40 kelas (tidak digunakan)
+LEAF_DATASET_DIR = DATASET_DIR / "Medicinal Leaf dataset"     # 80 kelas (sumber asli)
+CLEAN_DATASET_DIR = BASE_DIR / "dataset" / "dataset_bersih"   # 80 kelas, sudah 224x224 (digunakan training)
+COMBINED_DATASET_DIR = CLEAN_DATASET_DIR                      # alias backward-compat
+
+# Path metadata preprocessing (class weights pre-calculated dari notebook 02)
+PREPROCESSING_METADATA_PATH = BASE_DIR / "reports" / "preprocessing" / "preprocessing_metadata.json"
 
 # Output directories
 TRAINED_MODELS_DIR = BASE_DIR / "trained_models"
@@ -34,7 +39,7 @@ REPORTS_PREP_DIR = REPORTS_DIR / "preprocessing"
 REPORTS_EVAL_DIR = REPORTS_DIR / "evaluation"
 
 # Pastikan folder output ada
-for d in [TRAINED_MODELS_DIR, MODEL_MOBILENET_DIR, MODEL_RESNET_DIR, REPORTS_DIR, REPORTS_EDA_DIR, REPORTS_PREP_DIR, REPORTS_EVAL_DIR]:
+for d in [TRAINED_MODELS_DIR, MODEL_MOBILENET_DIR, MODEL_RESNET_DIR, REPORTS_DIR, REPORTS_EDA_DIR, REPORTS_PREP_DIR, REPORTS_EVAL_DIR, CLEAN_DATASET_DIR]:
     d.mkdir(parents=True, exist_ok=True)
 
 # =============================================================================
@@ -66,6 +71,10 @@ IMAGE_SIZE = 224
 BATCH_SIZE = 32           # Jumlah gambar yang diproses sekaligus per iterasi
 NUM_EPOCHS = 25           # Jumlah putaran training (bisa disesuaikan)
 LEARNING_RATE = 0.001     # Kecepatan belajar model (Adam optimizer)
+
+# Confidence threshold — untuk deteksi non-tanaman
+# Jika confidence tertinggi < threshold, dianggap bukan tanaman obat
+CONFIDENCE_THRESHOLD = 0.5
 
 # Data split — 80% training, 20% testing
 TRAIN_RATIO = 0.80
@@ -104,13 +113,14 @@ CLASS_NAMES = []  # Diisi otomatis oleh get_class_names()
 # =============================================================================
 if __name__ == "__main__":
     print("=" * 60)
-    print("⚙️  KONFIGURASI PROYEK")
+    print("KONFIGURASI PROYEK")
     print("=" * 60)
-    print(f"📂 Base directory:     {BASE_DIR}")
-    print(f"📂 Plant dataset:      {PLANT_DATASET_DIR} (exists: {PLANT_DATASET_DIR.exists()})")
-    print(f"📂 Leaf dataset:       {LEAF_DATASET_DIR} (exists: {LEAF_DATASET_DIR.exists()})")
-    print(f"📂 Trained models:     {TRAINED_MODELS_DIR}")
-    print(f"📂 Reports:            {REPORTS_DIR}")
+    print(f"Base directory:     {BASE_DIR}")
+    print(f"Leaf dataset (raw): {LEAF_DATASET_DIR} (exists: {LEAF_DATASET_DIR.exists()})")
+    print(f"Clean dataset:      {CLEAN_DATASET_DIR} (exists: {CLEAN_DATASET_DIR.exists()})")
+    print(f"Preprocessing meta: {PREPROCESSING_METADATA_PATH} (exists: {PREPROCESSING_METADATA_PATH.exists()})")
+    print(f"Trained models:     {TRAINED_MODELS_DIR}")
+    print(f"Reports:            {REPORTS_DIR}")
     print(f"")
     print(f"🖼️  Image size:         {IMAGE_SIZE}x{IMAGE_SIZE}")
     print(f"📦 Batch size:         {BATCH_SIZE}")

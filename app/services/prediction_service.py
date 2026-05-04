@@ -1,7 +1,8 @@
 # =============================================================================
-# prediction_service.py — Service prediksi gambar tanaman obat
+# prediction_service.py - Service prediksi gambar tanaman obat
 # =============================================================================
-# Hanya menggunakan MobileNetV2 (akurasi ~96.88%)
+# Menggunakan MobileNetV2 dengan deteksi non-tanaman via confidence threshold.
+# Semua nama kelas menggunakan Bahasa Indonesia (prefix "Daun").
 # =============================================================================
 
 import io
@@ -15,10 +16,14 @@ from PIL import Image
 
 from app.models.cnn_models import create_mobilenetv2
 from app.services.plant_database import get_plant_info_safe
-from app.utils.config import MODEL_MOBILENET_DIR, IMAGE_SIZE, IMAGENET_MEAN, IMAGENET_STD
+from app.utils.config import (
+    MODEL_MOBILENET_DIR, IMAGE_SIZE, IMAGENET_MEAN, IMAGENET_STD,
+    CONFIDENCE_THRESHOLD
+)
 
 # =============================================================================
-# CLASS NAMES — Diambil langsung dari sorted(os.listdir(_combined_dataset))
+# CLASS NAMES - 75 kelas Bahasa Indonesia (prefix "Daun")
+# Diambil dari sorted(os.listdir(_combined_dataset))
 # Urutan ini HARUS sama persis dengan saat training (ImageFolder sorts A-Z)
 # =============================================================================
 
@@ -29,34 +34,41 @@ if _CLASS_NAMES_FILE.exists():
     with open(_CLASS_NAMES_FILE, "r", encoding="utf-8") as f:
         CLASS_NAMES = json.load(f)
 else:
-    # Hardcoded fallback — harus cocok dengan sorted(os.listdir())
+    # Hardcoded fallback - 75 kelas Bahasa Indonesia (setelah merge & translasi)
     CLASS_NAMES = [
-        "Aloevera", "Amla", "Amruta_Balli", "Amruthaballi", "Arali",
-        "Ashoka", "Ashwagandha", "Astma_weed", "Avacado", "Badipala",
-        "Balloon_Vine", "Bamboo", "Basale", "Beans", "Betel",
-        "Betel_Nut", "Bhrami", "Brahmi", "Bringaraja", "Caricature",
-        "Castor", "Catharanthus", "Chakte", "Chilly",
-        "Citron lime (herelikai)", "Coffee", "Common rue(naagdalli)",
-        "Coriender", "Curry", "Curry_Leaf", "Doddapatre", "Doddpathre",
-        "Drumstick", "Ekka", "Eucalyptus", "Ganigale", "Ganike",
-        "Gasagase", "Gauva", "Geranium", "Ginger", "Globe Amarnath",
-        "Guava", "Henna", "Hibiscus", "Honge", "Insulin", "Jackfruit",
-        "Jasmine", "Kambajala", "Kasambruga", "Kohlrabi", "Lantana",
-        "Lemon", "Lemon_grass", "Lemongrass", "Malabar_Nut",
-        "Malabar_Spinach", "Mango", "Marigold", "Mint", "Nagadali",
-        "Neem", "Nelavembu", "Nerale", "Nithyapushpa", "Nooni", "Onion",
-        "Padri", "Palak(Spinach)", "Papaya", "Pappaya", "Parijatha",
-        "Pea", "Pepper", "Pomegranate", "Pomoegranate", "Pumpkin",
-        "Raddish", "Raktachandini", "Rose", "Sampige", "Sapota",
-        "Seethaashoka", "Seethapala", "Spinach1", "Tamarind", "Taro",
-        "Tecoma", "Thumbe", "Tomato", "Tulasi", "Tulsi", "Turmeric",
-        "Wood_sorel", "camphor", "kamakasturi", "kepala",
+        "Daun Adhatoda (Malabar Nut)", "Daun Amla (Malaka India)",
+        "Daun Asam Jawa", "Daun Ashoka", 
+        "Daun Badipala (Serai Malabar)",
+        "Daun Bambu", "Daun Bawang Merah",
+        "Daun Bayam Malabar (Gendola)", "Daun Biduri", "Daun Biji Poppy India",
+        "Daun Brahmi (Pegagan India)", "Daun Brotowali", "Daun Bunga Kenop",
+        "Daun Bunga Marigold", "Daun Bunga Tecoma", "Daun Bunga Thumbe (Leucas)",
+        "Daun Cabai", "Daun Cempaka Kuning",         "Daun Chakte (Teak India)", "Daun Delima", "Daun Ganigale",
+"Daun Handeuleum", "Daun Honge (Pongamia)",
+        "Daun Inggu (Common Rue)", "Daun Insulin", "Daun Jahe",
+        "Daun Jamblang (Jamun)", "Daun Jambu Biji", "Daun Jarak",
+        "Daun Jeruk Lemon", "Daun Jeruk Sitrun",
+        "Daun Jintan India (Indian Borage)", "Daun Kacang Buncis",
+        "Daun Kacang Polong", "Daun Kambajala (Hop Bush)", "Daun Kamboja Jepang",
+        "Daun Kapur Barus", "Daun Kari", "Daun Kasambruga (Trengguli)",
+        "Daun Kasturi (Musk Mallow)", "Daun Kayu Putih (Eucalyptus)",
+         "Daun Kelor", "Daun Kemangi Suci (Tulsi)",
+        "Daun Kembang Sepatu", "Daun Ketumbar", "Daun Kohlrabi (Kubis Rabi)",
+        "Daun Kopi", "Daun Kunyit", "Daun Labu Kuning", "Daun Lada (Merica)",
+        "Daun Lantana", "Daun Lidah Buaya", "Daun Lobak", "Daun Mangga",
+        "Daun Mawar", "Daun Melati", "Daun Mengkudu", "Daun Mimba (Neem)",
+        "Daun Mint", "Daun Nangka", "Daun Pacar Kuku (Henna)",
+        "Daun Padri (Night Jasmine)", "Daun Paria Gunung", "Daun Parijata",
+        "Daun Patikan Kebo", "Daun Pepaya", "Daun Sambiloto",
+        "Daun Sawo", "Daun Serai",
+        "Daun Sirih", "Daun Srikaya", "Daun Talas", "Daun Tapak Dara",
+        "Daun Tomat", "Daun Urang-Aring",
     ]
 
-NUM_CLASSES = len(CLASS_NAMES)  # Harus 98
+NUM_CLASSES = len(CLASS_NAMES)  # Harus 75
 
 # =============================================================================
-# Transform — HARUS sama dengan test_transforms saat training
+# Transform - HARUS sama dengan test_transforms saat training
 # =============================================================================
 
 inference_transform = transforms.Compose([
@@ -67,7 +79,7 @@ inference_transform = transforms.Compose([
 
 
 # =============================================================================
-# PREDICTION SERVICE — Hanya MobileNetV2
+# PREDICTION SERVICE - MobileNetV2 + Non-Plant Detection
 # =============================================================================
 
 class PredictionService:
@@ -100,8 +112,11 @@ class PredictionService:
         """
         Prediksi gambar tanaman dari bytes.
 
+        Jika confidence tertinggi < CONFIDENCE_THRESHOLD, dianggap bukan
+        tanaman obat dan mengembalikan response khusus.
+
         Returns dict:
-            class_name, confidence, top_predictions, plant_info
+            class_name, confidence, top_predictions, plant_info, is_plant
         """
         if self._model is None:
             raise RuntimeError("Model belum di-load. Panggil load_model() dulu.")
@@ -127,7 +142,7 @@ class PredictionService:
             top_probs = [top_probs]
             top_indices = [top_indices]
 
-        # 5. Map ke nama kelas
+        # 5. Map ke nama kelas (Bahasa Indonesia, prefix "Daun")
         top_predictions = []
         for prob, idx in zip(top_probs, top_indices):
             top_predictions.append({
@@ -135,15 +150,34 @@ class PredictionService:
                 "confidence": round(prob, 4),
             })
 
-        # 6. Best prediction + plant info
-        best_class = CLASS_NAMES[top_indices[0]]
+        # 6. Cek confidence threshold - deteksi non-tanaman
         best_confidence = top_probs[0]
+
+        if best_confidence < CONFIDENCE_THRESHOLD:
+            # Confidence terlalu rendah - kemungkinan bukan tanaman obat
+            return {
+                "class_name": None,
+                "confidence": round(best_confidence, 4),
+                "model": "mobilenetv2",
+                "is_plant": False,
+                "message": (
+                    "Objek tidak dikenali sebagai tanaman obat. "
+                    "Pastikan Anda memfoto daun tanaman dengan jelas dan "
+                    "pencahayaan yang cukup."
+                ),
+                "top_predictions": top_predictions,
+                "plant_info": None,
+            }
+
+        # 7. Best prediction + plant info
+        best_class = CLASS_NAMES[top_indices[0]]
         plant_info = get_plant_info_safe(best_class)
 
         return {
             "class_name": best_class,
             "confidence": round(best_confidence, 4),
             "model": "mobilenetv2",
+            "is_plant": True,
             "top_predictions": top_predictions,
             "plant_info": plant_info,
         }
